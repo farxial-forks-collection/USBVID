@@ -1,0 +1,5560 @@
+{
+  "vendors":[
+    {
+      "vid":"0001",
+      "vendor":"Fry's Electronics"
+    },
+    {
+      "vid":"0002",
+      "vendor":"Ingram"
+    },
+    {
+      "vid":"0003",
+      "vendor":"Club Mac"
+    },
+    {
+      "vid":"0004",
+      "vendor":"Nebraska Furniture Mart"
+    },
+    {
+      "vid":"0011",
+      "vendor":"Unknown"
+    },
+    {
+      "vid":"0053",
+      "vendor":"Planex"
+    },
+    {
+      "vid":"0078",
+      "vendor":"Microntek"
+    },
+    {
+      "vid":"0079",
+      "vendor":"DragonRise Inc."
+    },
+    {
+      "vid":"0080",
+      "vendor":"Assmann Electronic GmbH"
+    },
+    {
+      "vid":"0085",
+      "vendor":"Boeye Technology Co., Ltd."
+    },
+    {
+      "vid":"0105",
+      "vendor":"Trust International B.V."
+    },
+    {
+      "vid":"0127",
+      "vendor":"IBP"
+    },
+    {
+      "vid":"0145",
+      "vendor":"Unknown"
+    },
+    {
+      "vid":"017C",
+      "vendor":"MLK"
+    },
+    {
+      "vid":"0200",
+      "vendor":"TP-Link"
+    },
+    {
+      "vid":"0204",
+      "vendor":"Chipsbank Microelectronics Co., Ltd"
+    },
+    {
+      "vid":"0218",
+      "vendor":"Hangzhou Worlde"
+    },
+    {
+      "vid":"02AD",
+      "vendor":"HUMAX Co., Ltd."
+    },
+    {
+      "vid":"0303",
+      "vendor":"Mini Automation Controller"
+    },
+    {
+      "vid":"0324",
+      "vendor":"OCZ Technology Inc"
+    },
+    {
+      "vid":"0325",
+      "vendor":"OCZ Technology Inc"
+    },
+    {
+      "vid":"0386",
+      "vendor":"LTS"
+    },
+    {
+      "vid":"03D9",
+      "vendor":"Shenzhen Sinote Tech-Electron Co., Ltd"
+    },
+    {
+      "vid":"03DA",
+      "vendor":"Bernd Walter Computer Technology"
+    },
+    {
+      "vid":"03E7",
+      "vendor":"Intel"
+    },
+    {
+      "vid":"03E8",
+      "vendor":"EndPoints, Inc."
+    },
+    {
+      "vid":"03E9",
+      "vendor":"Thesys Microelectronics"
+    },
+    {
+      "vid":"03EA",
+      "vendor":"Data Broadcasting Corp."
+    },
+    {
+      "vid":"03EB",
+      "vendor":"Atmel Corp."
+    },
+    {
+      "vid":"03EC",
+      "vendor":"Iwatsu America, Inc."
+    },
+    {
+      "vid":"03ED",
+      "vendor":"Mitel Corp."
+    },
+    {
+      "vid":"03EE",
+      "vendor":"Mitsumi"
+    },
+    {
+      "vid":"03F0",
+      "vendor":"HP, Inc"
+    },
+    {
+      "vid":"03F1",
+      "vendor":"Genoa Technology"
+    },
+    {
+      "vid":"03F2",
+      "vendor":"Oak Technology, Inc."
+    },
+    {
+      "vid":"03F3",
+      "vendor":"Adaptec, Inc."
+    },
+    {
+      "vid":"03F4",
+      "vendor":"Diebold, Inc."
+    },
+    {
+      "vid":"03F5",
+      "vendor":"Siemens Electromechanical"
+    },
+    {
+      "vid":"03F8",
+      "vendor":"Epson Imaging Technology Center"
+    },
+    {
+      "vid":"03F9",
+      "vendor":"KeyTronic Corp."
+    },
+    {
+      "vid":"03FB",
+      "vendor":"OPTi, Inc."
+    },
+    {
+      "vid":"03FC",
+      "vendor":"Elitegroup Computer Systems"
+    },
+    {
+      "vid":"03FD",
+      "vendor":"Xilinx, Inc."
+    },
+    {
+      "vid":"03FE",
+      "vendor":"Farallon Comunications"
+    },
+    {
+      "vid":"0400",
+      "vendor":"National Semiconductor Corp."
+    },
+    {
+      "vid":"0401",
+      "vendor":"National Registry, Inc."
+    },
+    {
+      "vid":"0402",
+      "vendor":"ALi Corp."
+    },
+    {
+      "vid":"0403",
+      "vendor":"Future Technology Devices International, Ltd"
+    },
+    {
+      "vid":"0404",
+      "vendor":"NCR Corp."
+    },
+    {
+      "vid":"0405",
+      "vendor":"Synopsys, Inc."
+    },
+    {
+      "vid":"0406",
+      "vendor":"Fujitsu-ICL Computers"
+    },
+    {
+      "vid":"0407",
+      "vendor":"Fujitsu Personal Systems, Inc."
+    },
+    {
+      "vid":"0408",
+      "vendor":"Quanta Computer, Inc."
+    },
+    {
+      "vid":"0409",
+      "vendor":"NEC Corp."
+    },
+    {
+      "vid":"040A",
+      "vendor":"Kodak Co."
+    },
+    {
+      "vid":"040B",
+      "vendor":"Weltrend Semiconductor"
+    },
+    {
+      "vid":"040C",
+      "vendor":"VTech Computers, Ltd"
+    },
+    {
+      "vid":"040D",
+      "vendor":"VIA Technologies, Inc."
+    },
+    {
+      "vid":"040E",
+      "vendor":"MCCI"
+    },
+    {
+      "vid":"040F",
+      "vendor":"Echo Speech Corp."
+    },
+    {
+      "vid":"0411",
+      "vendor":"BUFFALO INC. (formerly MelCo., Inc.)"
+    },
+    {
+      "vid":"0412",
+      "vendor":"Award Software International"
+    },
+    {
+      "vid":"0413",
+      "vendor":"Leadtek Research, Inc."
+    },
+    {
+      "vid":"0414",
+      "vendor":"Giga-Byte Technology Co., Ltd"
+    },
+    {
+      "vid":"0416",
+      "vendor":"Winbond Electronics Corp."
+    },
+    {
+      "vid":"0417",
+      "vendor":"Symbios Logic"
+    },
+    {
+      "vid":"0418",
+      "vendor":"AST Research"
+    },
+    {
+      "vid":"0419",
+      "vendor":"Samsung Info. Systems America, Inc."
+    },
+    {
+      "vid":"041A",
+      "vendor":"Phoenix Technologies, Ltd"
+    },
+    {
+      "vid":"041B",
+      "vendor":"d'TV"
+    },
+    {
+      "vid":"041D",
+      "vendor":"S3, Inc."
+    },
+    {
+      "vid":"041E",
+      "vendor":"Creative Technology, Ltd"
+    },
+    {
+      "vid":"041F",
+      "vendor":"LCS Telegraphics"
+    },
+    {
+      "vid":"0420",
+      "vendor":"Chips and Technologies"
+    },
+    {
+      "vid":"0421",
+      "vendor":"Nokia Mobile Phones"
+    },
+    {
+      "vid":"0422",
+      "vendor":"ADI Systems, Inc."
+    },
+    {
+      "vid":"0423",
+      "vendor":"Computer Access Technology Corp."
+    },
+    {
+      "vid":"0424",
+      "vendor":"Standard Microsystems Corp."
+    },
+    {
+      "vid":"0425",
+      "vendor":"Motorola Semiconductors HK, Ltd"
+    },
+    {
+      "vid":"0426",
+      "vendor":"Integrated Device Technology, Inc."
+    },
+    {
+      "vid":"0427",
+      "vendor":"Motorola Electronics Taiwan, Ltd"
+    },
+    {
+      "vid":"0428",
+      "vendor":"Advanced Gravis Computer Tech, Ltd"
+    },
+    {
+      "vid":"0429",
+      "vendor":"Cirrus Logic"
+    },
+    {
+      "vid":"042A",
+      "vendor":"Ericsson Austrian, AG"
+    },
+    {
+      "vid":"042B",
+      "vendor":"Intel Corp."
+    },
+    {
+      "vid":"042C",
+      "vendor":"Innovative Semiconductors, Inc."
+    },
+    {
+      "vid":"042D",
+      "vendor":"Micronics"
+    },
+    {
+      "vid":"042E",
+      "vendor":"Acer, Inc."
+    },
+    {
+      "vid":"042F",
+      "vendor":"Molex, Inc."
+    },
+    {
+      "vid":"0430",
+      "vendor":"Sun Microsystems, Inc."
+    },
+    {
+      "vid":"0431",
+      "vendor":"Itac Systems, Inc."
+    },
+    {
+      "vid":"0432",
+      "vendor":"Unisys Corp."
+    },
+    {
+      "vid":"0433",
+      "vendor":"Alps Electric, Inc."
+    },
+    {
+      "vid":"0434",
+      "vendor":"Samsung Info. Systems America, Inc."
+    },
+    {
+      "vid":"0435",
+      "vendor":"Hyundai Electronics America"
+    },
+    {
+      "vid":"0436",
+      "vendor":"Taugagreining HF"
+    },
+    {
+      "vid":"0437",
+      "vendor":"Framatome Connectors USA"
+    },
+    {
+      "vid":"0438",
+      "vendor":"Advanced Micro Devices, Inc."
+    },
+    {
+      "vid":"0439",
+      "vendor":"Voice Technologies Group"
+    },
+    {
+      "vid":"043D",
+      "vendor":"Lexmark International, Inc."
+    },
+    {
+      "vid":"043E",
+      "vendor":"LG Electronics USA, Inc."
+    },
+    {
+      "vid":"043F",
+      "vendor":"RadiSys Corp."
+    },
+    {
+      "vid":"0440",
+      "vendor":"Eizo Nanao Corp."
+    },
+    {
+      "vid":"0441",
+      "vendor":"Winbond Systems Lab."
+    },
+    {
+      "vid":"0442",
+      "vendor":"Ericsson, Inc."
+    },
+    {
+      "vid":"0443",
+      "vendor":"Gateway, Inc."
+    },
+    {
+      "vid":"0445",
+      "vendor":"Lucent Technologies, Inc."
+    },
+    {
+      "vid":"0446",
+      "vendor":"NMB Technologies Corp."
+    },
+    {
+      "vid":"0447",
+      "vendor":"Momentum Microsystems"
+    },
+    {
+      "vid":"0449",
+      "vendor":"Duta Multi Robotik"
+    },
+    {
+      "vid":"044A",
+      "vendor":"Shamrock Tech. Co., Ltd"
+    },
+    {
+      "vid":"044B",
+      "vendor":"WSI"
+    },
+    {
+      "vid":"044C",
+      "vendor":"CCL/ITRI"
+    },
+    {
+      "vid":"044D",
+      "vendor":"Siemens Nixdorf AG"
+    },
+    {
+      "vid":"044E",
+      "vendor":"Alps Electric Co., Ltd"
+    },
+    {
+      "vid":"044F",
+      "vendor":"ThrustMaster, Inc."
+    },
+    {
+      "vid":"0450",
+      "vendor":"DFI, Inc."
+    },
+    {
+      "vid":"0451",
+      "vendor":"Texas Instruments, Inc."
+    },
+    {
+      "vid":"0452",
+      "vendor":"Mitsubishi Electronics America, Inc."
+    },
+    {
+      "vid":"0453",
+      "vendor":"CMD Technology"
+    },
+    {
+      "vid":"0454",
+      "vendor":"Vobis Microcomputer AG"
+    },
+    {
+      "vid":"0455",
+      "vendor":"Telematics International, Inc."
+    },
+    {
+      "vid":"0456",
+      "vendor":"Analog Devices, Inc."
+    },
+    {
+      "vid":"0457",
+      "vendor":"Silicon Integrated Systems Corp."
+    },
+    {
+      "vid":"0458",
+      "vendor":"KYE Systems Corp. (Mouse Systems)"
+    },
+    {
+      "vid":"0459",
+      "vendor":"Adobe Systems, Inc."
+    },
+    {
+      "vid":"045A",
+      "vendor":"SONICblue, Inc."
+    },
+    {
+      "vid":"045B",
+      "vendor":"Hitachi, Ltd"
+    },
+    {
+      "vid":"045D",
+      "vendor":"Nortel Networks, Ltd"
+    },
+    {
+      "vid":"045E",
+      "vendor":"Microsoft Corp."
+    },
+    {
+      "vid":"0460",
+      "vendor":"Ace Cad Enterprise Co., Ltd"
+    },
+    {
+      "vid":"0461",
+      "vendor":"Primax Electronics, Ltd"
+    },
+    {
+      "vid":"0463",
+      "vendor":"MGE UPS Systems"
+    },
+    {
+      "vid":"0464",
+      "vendor":"AMP/Tycoelectronics Corp."
+    },
+    {
+      "vid":"0467",
+      "vendor":"AT&amp;T Paradyne"
+    },
+    {
+      "vid":"0468",
+      "vendor":"Wieson Technologies Co., Ltd"
+    },
+    {
+      "vid":"046A",
+      "vendor":"Cherry GmbH"
+    },
+    {
+      "vid":"046B",
+      "vendor":"American Megatrends, Inc."
+    },
+    {
+      "vid":"046C",
+      "vendor":"Toshiba Corp., Digital Media Equipment"
+    },
+    {
+      "vid":"046D",
+      "vendor":"Logitech, Inc."
+    },
+    {
+      "vid":"046E",
+      "vendor":"Behavior Tech. Computer Corp."
+    },
+    {
+      "vid":"046F",
+      "vendor":"Crystal Semiconductor"
+    },
+    {
+      "vid":"0471",
+      "vendor":"Philips (or NXP)"
+    },
+    {
+      "vid":"0472",
+      "vendor":"Chicony Electronics Co., Ltd"
+    },
+    {
+      "vid":"0473",
+      "vendor":"Sanyo Information Business Co., Ltd"
+    },
+    {
+      "vid":"0474",
+      "vendor":"Sanyo Electric Co., Ltd"
+    },
+    {
+      "vid":"0475",
+      "vendor":"Relisys/Teco Information System"
+    },
+    {
+      "vid":"0476",
+      "vendor":"AESP"
+    },
+    {
+      "vid":"0477",
+      "vendor":"Seagate Technology, Inc."
+    },
+    {
+      "vid":"0478",
+      "vendor":"Connectix Corp."
+    },
+    {
+      "vid":"0479",
+      "vendor":"Advanced Peripheral Laboratories"
+    },
+    {
+      "vid":"047A",
+      "vendor":"Semtech Corp."
+    },
+    {
+      "vid":"047B",
+      "vendor":"Silitek Corp."
+    },
+    {
+      "vid":"047C",
+      "vendor":"Dell Computer Corp."
+    },
+    {
+      "vid":"047D",
+      "vendor":"Kensington"
+    },
+    {
+      "vid":"047E",
+      "vendor":"Agere Systems, Inc. (Lucent)"
+    },
+    {
+      "vid":"047F",
+      "vendor":"Plantronics, Inc."
+    },
+    {
+      "vid":"0480",
+      "vendor":"Toshiba America Inc"
+    },
+    {
+      "vid":"0481",
+      "vendor":"Zenith Data Systems"
+    },
+    {
+      "vid":"0482",
+      "vendor":"Kyocera Corp."
+    },
+    {
+      "vid":"0483",
+      "vendor":"STMicroelectronics"
+    },
+    {
+      "vid":"0484",
+      "vendor":"Specialix"
+    },
+    {
+      "vid":"0485",
+      "vendor":"Nokia Monitors"
+    },
+    {
+      "vid":"0486",
+      "vendor":"ASUS Computers, Inc."
+    },
+    {
+      "vid":"0487",
+      "vendor":"Stewart Connector"
+    },
+    {
+      "vid":"0488",
+      "vendor":"Cirque Corp."
+    },
+    {
+      "vid":"0489",
+      "vendor":"Foxconn / Hon Hai"
+    },
+    {
+      "vid":"048A",
+      "vendor":"S-MOS Systems, Inc."
+    },
+    {
+      "vid":"048C",
+      "vendor":"Alps Electric Ireland, Ltd"
+    },
+    {
+      "vid":"048D",
+      "vendor":"Integrated Technology Express, Inc."
+    },
+    {
+      "vid":"048F",
+      "vendor":"Eicon Tech."
+    },
+    {
+      "vid":"0490",
+      "vendor":"United Microelectronics Corp."
+    },
+    {
+      "vid":"0491",
+      "vendor":"Capetronic"
+    },
+    {
+      "vid":"0492",
+      "vendor":"Samsung SemiConductor, Inc."
+    },
+    {
+      "vid":"0493",
+      "vendor":"MAG Technology Co., Ltd"
+    },
+    {
+      "vid":"0495",
+      "vendor":"ESS Technology, Inc."
+    },
+    {
+      "vid":"0496",
+      "vendor":"Micron Electronics"
+    },
+    {
+      "vid":"0497",
+      "vendor":"Smile International"
+    },
+    {
+      "vid":"0498",
+      "vendor":"Capetronic (Kaohsiung) Corp."
+    },
+    {
+      "vid":"0499",
+      "vendor":"Yamaha Corp."
+    },
+    {
+      "vid":"049A",
+      "vendor":"Gandalf Technologies, Ltd"
+    },
+    {
+      "vid":"049B",
+      "vendor":"Curtis Computer Products"
+    },
+    {
+      "vid":"049C",
+      "vendor":"Acer Advanced Labs, Inc."
+    },
+    {
+      "vid":"049D",
+      "vendor":"VLSI Technology"
+    },
+    {
+      "vid":"049F",
+      "vendor":"Compaq Computer Corp."
+    },
+    {
+      "vid":"04A0",
+      "vendor":"Digital Equipment Corp."
+    },
+    {
+      "vid":"04A1",
+      "vendor":"SystemSoft Corp."
+    },
+    {
+      "vid":"04A2",
+      "vendor":"FirePower Systems"
+    },
+    {
+      "vid":"04A3",
+      "vendor":"Trident Microsystems, Inc."
+    },
+    {
+      "vid":"04A4",
+      "vendor":"Hitachi, Ltd"
+    },
+    {
+      "vid":"04A5",
+      "vendor":"Acer Peripherals Inc. (now BenQ Corp.)"
+    },
+    {
+      "vid":"04A6",
+      "vendor":"Nokia Display Products"
+    },
+    {
+      "vid":"04A7",
+      "vendor":"Visioneer"
+    },
+    {
+      "vid":"04A8",
+      "vendor":"Multivideo Labs, Inc."
+    },
+    {
+      "vid":"04A9",
+      "vendor":"Canon, Inc."
+    },
+    {
+      "vid":"04AA",
+      "vendor":"DaeWoo Telecom, Ltd"
+    },
+    {
+      "vid":"04AB",
+      "vendor":"Chromatic Research"
+    },
+    {
+      "vid":"04AC",
+      "vendor":"Micro Audiometrics Corp."
+    },
+    {
+      "vid":"04AD",
+      "vendor":"Dooin Electronics"
+    },
+    {
+      "vid":"04AF",
+      "vendor":"Winnov L.P."
+    },
+    {
+      "vid":"04B0",
+      "vendor":"Nikon Corp."
+    },
+    {
+      "vid":"04B1",
+      "vendor":"Pan International"
+    },
+    {
+      "vid":"04B3",
+      "vendor":"IBM Corp."
+    },
+    {
+      "vid":"04B4",
+      "vendor":"Cypress Semiconductor Corp."
+    },
+    {
+      "vid":"04B5",
+      "vendor":"ROHM LSI Systems USA, LLC"
+    },
+    {
+      "vid":"04B6",
+      "vendor":"Hint Corp."
+    },
+    {
+      "vid":"04B7",
+      "vendor":"Compal Electronics, Inc."
+    },
+    {
+      "vid":"04B8",
+      "vendor":"Seiko Epson Corp."
+    },
+    {
+      "vid":"04B9",
+      "vendor":"Rainbow Technologies, Inc."
+    },
+    {
+      "vid":"04BA",
+      "vendor":"Toucan Systems, Ltd"
+    },
+    {
+      "vid":"04BB",
+      "vendor":"I-O Data Device, Inc."
+    },
+    {
+      "vid":"04BD",
+      "vendor":"Toshiba Electronics Taiwan Corp."
+    },
+    {
+      "vid":"04BE",
+      "vendor":"Telia Research AB"
+    },
+    {
+      "vid":"04BF",
+      "vendor":"TDK Corp."
+    },
+    {
+      "vid":"04C1",
+      "vendor":"U.S. Robotics (3Com)"
+    },
+    {
+      "vid":"04C2",
+      "vendor":"Methode Electronics Far East PTE, Ltd"
+    },
+    {
+      "vid":"04C3",
+      "vendor":"Maxi Switch, Inc."
+    },
+    {
+      "vid":"04C4",
+      "vendor":"Lockheed Martin Energy Research"
+    },
+    {
+      "vid":"04C5",
+      "vendor":"Fujitsu, Ltd"
+    },
+    {
+      "vid":"04C6",
+      "vendor":"Toshiba America Electronic Components"
+    },
+    {
+      "vid":"04C7",
+      "vendor":"Micro Macro Technologies"
+    },
+    {
+      "vid":"04C8",
+      "vendor":"Konica Corp."
+    },
+    {
+      "vid":"04CA",
+      "vendor":"Lite-On Technology Corp."
+    },
+    {
+      "vid":"04CB",
+      "vendor":"Fuji Photo Film Co., Ltd"
+    },
+    {
+      "vid":"04CC",
+      "vendor":"ST-Ericsson"
+    },
+    {
+      "vid":"04CD",
+      "vendor":"Tatung Co. Of America"
+    },
+    {
+      "vid":"04CE",
+      "vendor":"ScanLogic Corp."
+    },
+    {
+      "vid":"04CF",
+      "vendor":"Myson Century, Inc."
+    },
+    {
+      "vid":"04D0",
+      "vendor":"Digi International"
+    },
+    {
+      "vid":"04D1",
+      "vendor":"ITT Canon"
+    },
+    {
+      "vid":"04D2",
+      "vendor":"Altec Lansing Technologies"
+    },
+    {
+      "vid":"04D3",
+      "vendor":"VidUS, Inc."
+    },
+    {
+      "vid":"04D4",
+      "vendor":"LSI Logic, Inc."
+    },
+    {
+      "vid":"04D5",
+      "vendor":"Forte Technologies, Inc."
+    },
+    {
+      "vid":"04D6",
+      "vendor":"Mentor Graphics"
+    },
+    {
+      "vid":"04D7",
+      "vendor":"Oki Semiconductor"
+    },
+    {
+      "vid":"04D8",
+      "vendor":"Microchip Technology, Inc."
+    },
+    {
+      "vid":"04D9",
+      "vendor":"Holtek Semiconductor, Inc."
+    },
+    {
+      "vid":"04DA",
+      "vendor":"Panasonic (Matsushita)"
+    },
+    {
+      "vid":"04DB",
+      "vendor":"Hypertec Pty, Ltd"
+    },
+    {
+      "vid":"04DC",
+      "vendor":"Huan Hsin Holdings, Ltd"
+    },
+    {
+      "vid":"04DD",
+      "vendor":"Sharp Corp."
+    },
+    {
+      "vid":"04DE",
+      "vendor":"MindShare, Inc."
+    },
+    {
+      "vid":"04DF",
+      "vendor":"Interlink Electronics"
+    },
+    {
+      "vid":"04E1",
+      "vendor":"Iiyama North America, Inc."
+    },
+    {
+      "vid":"04E2",
+      "vendor":"Exar Corp."
+    },
+    {
+      "vid":"04E3",
+      "vendor":"Zilog, Inc."
+    },
+    {
+      "vid":"04E4",
+      "vendor":"ACC Microelectronics"
+    },
+    {
+      "vid":"04E5",
+      "vendor":"Promise Technology"
+    },
+    {
+      "vid":"04E6",
+      "vendor":"SCM Microsystems, Inc."
+    },
+    {
+      "vid":"04E7",
+      "vendor":"Elo TouchSystems"
+    },
+    {
+      "vid":"04E8",
+      "vendor":"Samsung Electronics Co., Ltd"
+    },
+    {
+      "vid":"04E9",
+      "vendor":"PC-Tel, Inc."
+    },
+    {
+      "vid":"04EA",
+      "vendor":"Brooktree Corp."
+    },
+    {
+      "vid":"04EB",
+      "vendor":"Northstar Systems, Inc."
+    },
+    {
+      "vid":"04EC",
+      "vendor":"Tokyo Electron Device, Ltd"
+    },
+    {
+      "vid":"04ED",
+      "vendor":"Annabooks"
+    },
+    {
+      "vid":"04EF",
+      "vendor":"Pacific Electronic International, Inc."
+    },
+    {
+      "vid":"04F0",
+      "vendor":"Daewoo Electronics Co., Ltd"
+    },
+    {
+      "vid":"04F1",
+      "vendor":"Victor Company of Japan, Ltd"
+    },
+    {
+      "vid":"04F2",
+      "vendor":"Chicony Electronics Co., Ltd"
+    },
+    {
+      "vid":"04F3",
+      "vendor":"Elan Microelectronics Corp."
+    },
+    {
+      "vid":"04F4",
+      "vendor":"Harting Elektronik, Inc."
+    },
+    {
+      "vid":"04F5",
+      "vendor":"Fujitsu-ICL Systems, Inc."
+    },
+    {
+      "vid":"04F6",
+      "vendor":"Norand Corp."
+    },
+    {
+      "vid":"04F7",
+      "vendor":"Newnex Technology Corp."
+    },
+    {
+      "vid":"04F8",
+      "vendor":"FuturePlus Systems"
+    },
+    {
+      "vid":"04F9",
+      "vendor":"Brother Industries, Ltd"
+    },
+    {
+      "vid":"04FA",
+      "vendor":"Dallas Semiconductor"
+    },
+    {
+      "vid":"04FB",
+      "vendor":"Biostar Microtech International Corp."
+    },
+    {
+      "vid":"04FC",
+      "vendor":"Sunplus Technology Co., Ltd"
+    },
+    {
+      "vid":"04FD",
+      "vendor":"Soliton Systems, K.K."
+    },
+    {
+      "vid":"04FE",
+      "vendor":"PFU, Ltd"
+    },
+    {
+      "vid":"04FF",
+      "vendor":"E-CMOS Corp."
+    },
+    {
+      "vid":"0500",
+      "vendor":"Siam United Hi-Tech"
+    },
+    {
+      "vid":"0501",
+      "vendor":"Fujikura DDK, Ltd"
+    },
+    {
+      "vid":"0502",
+      "vendor":"Acer, Inc."
+    },
+    {
+      "vid":"0503",
+      "vendor":"Hitachi America, Ltd"
+    },
+    {
+      "vid":"0504",
+      "vendor":"Hayes Microcomputer Products"
+    },
+    {
+      "vid":"0506",
+      "vendor":"3Com Corp."
+    },
+    {
+      "vid":"0507",
+      "vendor":"Hosiden Corp."
+    },
+    {
+      "vid":"0508",
+      "vendor":"Clarion Co., Ltd"
+    },
+    {
+      "vid":"0509",
+      "vendor":"Aztech Systems, Ltd"
+    },
+    {
+      "vid":"050A",
+      "vendor":"Cinch Connectors"
+    },
+    {
+      "vid":"050B",
+      "vendor":"Cable System International"
+    },
+    {
+      "vid":"050C",
+      "vendor":"InnoMedia, Inc."
+    },
+    {
+      "vid":"050D",
+      "vendor":"Belkin Components"
+    },
+    {
+      "vid":"050E",
+      "vendor":"Neon Technology, Inc."
+    },
+    {
+      "vid":"050F",
+      "vendor":"KC Technology, Inc."
+    },
+    {
+      "vid":"0510",
+      "vendor":"Sejin Electron, Inc."
+    },
+    {
+      "vid":"0511",
+      "vendor":"N'Able (DataBook) Technologies, Inc."
+    },
+    {
+      "vid":"0512",
+      "vendor":"Hualon Microelectronics Corp."
+    },
+    {
+      "vid":"0513",
+      "vendor":"digital-X, Inc."
+    },
+    {
+      "vid":"0514",
+      "vendor":"FCI Electronics"
+    },
+    {
+      "vid":"0515",
+      "vendor":"ACTC"
+    },
+    {
+      "vid":"0516",
+      "vendor":"Longwell Electronics"
+    },
+    {
+      "vid":"0517",
+      "vendor":"Butterfly Communications"
+    },
+    {
+      "vid":"0518",
+      "vendor":"EzKEY Corp."
+    },
+    {
+      "vid":"0519",
+      "vendor":"Star Micronics Co., Ltd"
+    },
+    {
+      "vid":"051A",
+      "vendor":"WYSE Technology"
+    },
+    {
+      "vid":"051B",
+      "vendor":"Silicon Graphics"
+    },
+    {
+      "vid":"051C",
+      "vendor":"Shuttle, Inc."
+    },
+    {
+      "vid":"051D",
+      "vendor":"American Power Conversion"
+    },
+    {
+      "vid":"051E",
+      "vendor":"Scientific Atlanta, Inc."
+    },
+    {
+      "vid":"051F",
+      "vendor":"IO Systems (Elite Electronics), Inc."
+    },
+    {
+      "vid":"0520",
+      "vendor":"Taiwan Semiconductor Manufacturing Co."
+    },
+    {
+      "vid":"0521",
+      "vendor":"Airborn Connectors"
+    },
+    {
+      "vid":"0522",
+      "vendor":"Advanced Connectek, Inc."
+    },
+    {
+      "vid":"0523",
+      "vendor":"ATEN GmbH"
+    },
+    {
+      "vid":"0524",
+      "vendor":"Sola Electronics"
+    },
+    {
+      "vid":"0525",
+      "vendor":"Netchip Technology, Inc."
+    },
+    {
+      "vid":"0526",
+      "vendor":"Temic MHS S.A."
+    },
+    {
+      "vid":"0527",
+      "vendor":"ALTRA"
+    },
+    {
+      "vid":"0528",
+      "vendor":"ATI Technologies, Inc."
+    },
+    {
+      "vid":"0529",
+      "vendor":"Aladdin Knowledge Systems"
+    },
+    {
+      "vid":"052A",
+      "vendor":"Crescent Heart Software"
+    },
+    {
+      "vid":"052B",
+      "vendor":"Tekom Technologies, Inc."
+    },
+    {
+      "vid":"052C",
+      "vendor":"Canon Information Systems, Inc."
+    },
+    {
+      "vid":"052D",
+      "vendor":"Avid Electronics Corp."
+    },
+    {
+      "vid":"052E",
+      "vendor":"Standard Microsystems Corp."
+    },
+    {
+      "vid":"052F",
+      "vendor":"Unicore Software, Inc."
+    },
+    {
+      "vid":"0530",
+      "vendor":"American Microsystems, Inc."
+    },
+    {
+      "vid":"0531",
+      "vendor":"Wacom Technology Corp."
+    },
+    {
+      "vid":"0532",
+      "vendor":"Systech Corp."
+    },
+    {
+      "vid":"0533",
+      "vendor":"Alcatel Mobile Phones"
+    },
+    {
+      "vid":"0534",
+      "vendor":"Motorola, Inc."
+    },
+    {
+      "vid":"0535",
+      "vendor":"LIH TZU Electric Co., Ltd"
+    },
+    {
+      "vid":"0536",
+      "vendor":"Hand Held Products (Welch Allyn, Inc.)"
+    },
+    {
+      "vid":"0537",
+      "vendor":"Inventec Corp."
+    },
+    {
+      "vid":"0538",
+      "vendor":"Caldera International, Inc. (SCO)"
+    },
+    {
+      "vid":"0539",
+      "vendor":"Shyh Shiun Terminals Co., Ltd"
+    },
+    {
+      "vid":"053A",
+      "vendor":"PrehKeyTec GmbH"
+    },
+    {
+      "vid":"053B",
+      "vendor":"Global Village Communication"
+    },
+    {
+      "vid":"053C",
+      "vendor":"Institut of Microelectronic &amp; Mechatronic Systems"
+    },
+    {
+      "vid":"053D",
+      "vendor":"Silicon Architect"
+    },
+    {
+      "vid":"053E",
+      "vendor":"Mobility Electronics"
+    },
+    {
+      "vid":"053F",
+      "vendor":"Synopsys, Inc."
+    },
+    {
+      "vid":"0540",
+      "vendor":"UniAccess AB"
+    },
+    {
+      "vid":"0541",
+      "vendor":"Sirf Technology, Inc."
+    },
+    {
+      "vid":"0543",
+      "vendor":"ViewSonic Corp."
+    },
+    {
+      "vid":"0544",
+      "vendor":"Cristie Electronics, Ltd"
+    },
+    {
+      "vid":"0545",
+      "vendor":"Xirlink, Inc."
+    },
+    {
+      "vid":"0546",
+      "vendor":"Polaroid Corp."
+    },
+    {
+      "vid":"0547",
+      "vendor":"Anchor Chips, Inc."
+    },
+    {
+      "vid":"0548",
+      "vendor":"Tyan Computer Corp."
+    },
+    {
+      "vid":"0549",
+      "vendor":"Pixera Corp."
+    },
+    {
+      "vid":"054A",
+      "vendor":"Fujitsu Microelectronics, Inc."
+    },
+    {
+      "vid":"054B",
+      "vendor":"New Media Corp."
+    },
+    {
+      "vid":"054C",
+      "vendor":"Sony Corp."
+    },
+    {
+      "vid":"054D",
+      "vendor":"Try Corp."
+    },
+    {
+      "vid":"054E",
+      "vendor":"Proside Corp."
+    },
+    {
+      "vid":"054F",
+      "vendor":"WYSE Technology Taiwan"
+    },
+    {
+      "vid":"0550",
+      "vendor":"Fuji Xerox Co., Ltd"
+    },
+    {
+      "vid":"0551",
+      "vendor":"CompuTrend Systems, Inc."
+    },
+    {
+      "vid":"0552",
+      "vendor":"Philips Monitors"
+    },
+    {
+      "vid":"0553",
+      "vendor":"STMicroelectronics Imaging Division (VLSI Vision)"
+    },
+    {
+      "vid":"0554",
+      "vendor":"Dictaphone Corp."
+    },
+    {
+      "vid":"0555",
+      "vendor":"ANAM S&amp;T Co., Ltd"
+    },
+    {
+      "vid":"0556",
+      "vendor":"Asahi Kasei Microsystems Co., Ltd"
+    },
+    {
+      "vid":"0557",
+      "vendor":"ATEN International Co., Ltd"
+    },
+    {
+      "vid":"0558",
+      "vendor":"Truevision, Inc."
+    },
+    {
+      "vid":"0559",
+      "vendor":"Cadence Design Systems, Inc."
+    },
+    {
+      "vid":"055A",
+      "vendor":"Kenwood USA"
+    },
+    {
+      "vid":"055B",
+      "vendor":"KnowledgeTek, Inc."
+    },
+    {
+      "vid":"055C",
+      "vendor":"Proton Electronic Ind."
+    },
+    {
+      "vid":"055D",
+      "vendor":"Samsung Electro-Mechanics Co."
+    },
+    {
+      "vid":"055E",
+      "vendor":"CTX Opto-Electronics Corp."
+    },
+    {
+      "vid":"055F",
+      "vendor":"Mustek Systems, Inc."
+    },
+    {
+      "vid":"0560",
+      "vendor":"Interface Corp."
+    },
+    {
+      "vid":"0561",
+      "vendor":"Oasis Design, Inc."
+    },
+    {
+      "vid":"0562",
+      "vendor":"Telex Communications, Inc."
+    },
+    {
+      "vid":"0563",
+      "vendor":"Immersion Corp."
+    },
+    {
+      "vid":"0564",
+      "vendor":"Kodak Digital Product Center, Japan Ltd. (formerly Chinon Industries Inc.)"
+    },
+    {
+      "vid":"0565",
+      "vendor":"Peracom Networks, Inc."
+    },
+    {
+      "vid":"0566",
+      "vendor":"Monterey International Corp."
+    },
+    {
+      "vid":"0567",
+      "vendor":"Xyratex International, Ltd"
+    },
+    {
+      "vid":"0568",
+      "vendor":"Quartz Ingenierie"
+    },
+    {
+      "vid":"0569",
+      "vendor":"SegaSoft"
+    },
+    {
+      "vid":"056A",
+      "vendor":"Wacom Co., Ltd"
+    },
+    {
+      "vid":"056B",
+      "vendor":"Decicon, Inc."
+    },
+    {
+      "vid":"056C",
+      "vendor":"eTEK Labs"
+    },
+    {
+      "vid":"056D",
+      "vendor":"EIZO Corp."
+    },
+    {
+      "vid":"056E",
+      "vendor":"Elecom Co., Ltd"
+    },
+    {
+      "vid":"056F",
+      "vendor":"Korea Data Systems Co., Ltd"
+    },
+    {
+      "vid":"0570",
+      "vendor":"Epson America"
+    },
+    {
+      "vid":"0571",
+      "vendor":"Interex, Inc."
+    },
+    {
+      "vid":"0572",
+      "vendor":"Conexant Systems (Rockwell), Inc."
+    },
+    {
+      "vid":"0573",
+      "vendor":"Zoran Co. Personal Media Division (Nogatech)"
+    },
+    {
+      "vid":"0574",
+      "vendor":"City University of Hong Kong"
+    },
+    {
+      "vid":"0575",
+      "vendor":"Philips Creative Display Solutions"
+    },
+    {
+      "vid":"0576",
+      "vendor":"BAFO/Quality Computer Accessories"
+    },
+    {
+      "vid":"0577",
+      "vendor":"ELSA"
+    },
+    {
+      "vid":"0578",
+      "vendor":"Intrinsix Corp."
+    },
+    {
+      "vid":"0579",
+      "vendor":"GVC Corp."
+    },
+    {
+      "vid":"057A",
+      "vendor":"Samsung Electronics America"
+    },
+    {
+      "vid":"057B",
+      "vendor":"Y-E Data, Inc."
+    },
+    {
+      "vid":"057C",
+      "vendor":"AVM GmbH"
+    },
+    {
+      "vid":"057D",
+      "vendor":"Shark Multimedia, Inc."
+    },
+    {
+      "vid":"057E",
+      "vendor":"Nintendo Co., Ltd"
+    },
+    {
+      "vid":"057F",
+      "vendor":"QuickShot, Ltd"
+    },
+    {
+      "vid":"0580",
+      "vendor":"Denron, Inc."
+    },
+    {
+      "vid":"0581",
+      "vendor":"Racal Data Group"
+    },
+    {
+      "vid":"0582",
+      "vendor":"Roland Corp."
+    },
+    {
+      "vid":"0583",
+      "vendor":"Padix Co., Ltd (Rockfire)"
+    },
+    {
+      "vid":"0584",
+      "vendor":"RATOC System, Inc."
+    },
+    {
+      "vid":"0585",
+      "vendor":"FlashPoint Technology, Inc."
+    },
+    {
+      "vid":"0586",
+      "vendor":"ZyXEL Communications Corp."
+    },
+    {
+      "vid":"0587",
+      "vendor":"America Kotobuki Electronics Industries, Inc."
+    },
+    {
+      "vid":"0588",
+      "vendor":"Sapien Design"
+    },
+    {
+      "vid":"0589",
+      "vendor":"Victron"
+    },
+    {
+      "vid":"058A",
+      "vendor":"Nohau Corp."
+    },
+    {
+      "vid":"058B",
+      "vendor":"Infineon Technologies"
+    },
+    {
+      "vid":"058C",
+      "vendor":"In Focus Systems"
+    },
+    {
+      "vid":"058D",
+      "vendor":"Micrel Semiconductor"
+    },
+    {
+      "vid":"058E",
+      "vendor":"Tripath Technology, Inc."
+    },
+    {
+      "vid":"058F",
+      "vendor":"Alcor Micro Corp."
+    },
+    {
+      "vid":"0590",
+      "vendor":"Omron Corp."
+    },
+    {
+      "vid":"0591",
+      "vendor":"Questra Consulting"
+    },
+    {
+      "vid":"0592",
+      "vendor":"Powerware Corp."
+    },
+    {
+      "vid":"0593",
+      "vendor":"Incite"
+    },
+    {
+      "vid":"0594",
+      "vendor":"Princeton Graphic Systems"
+    },
+    {
+      "vid":"0595",
+      "vendor":"Zoran Microelectronics, Ltd"
+    },
+    {
+      "vid":"0596",
+      "vendor":"MicroTouch Systems, Inc."
+    },
+    {
+      "vid":"0597",
+      "vendor":"Trisignal Communications"
+    },
+    {
+      "vid":"0598",
+      "vendor":"Niigata Canotec Co., Inc."
+    },
+    {
+      "vid":"0599",
+      "vendor":"Brilliance Semiconductor, Inc."
+    },
+    {
+      "vid":"059A",
+      "vendor":"Spectrum Signal Processing, Inc."
+    },
+    {
+      "vid":"059B",
+      "vendor":"Iomega Corp."
+    },
+    {
+      "vid":"059C",
+      "vendor":"A-Trend Technology Co., Ltd"
+    },
+    {
+      "vid":"059D",
+      "vendor":"Advanced Input Devices"
+    },
+    {
+      "vid":"059E",
+      "vendor":"Intelligent Instrumentation"
+    },
+    {
+      "vid":"059F",
+      "vendor":"LaCie, Ltd"
+    },
+    {
+      "vid":"05A0",
+      "vendor":"Vetronix Corp."
+    },
+    {
+      "vid":"05A1",
+      "vendor":"USC Corp."
+    },
+    {
+      "vid":"05A2",
+      "vendor":"Fuji Film Microdevices Co., Ltd"
+    },
+    {
+      "vid":"05A3",
+      "vendor":"ARC International"
+    },
+    {
+      "vid":"05A4",
+      "vendor":"Ortek Technology, Inc."
+    },
+    {
+      "vid":"05A5",
+      "vendor":"Sampo Technology Corp."
+    },
+    {
+      "vid":"05A6",
+      "vendor":"Cisco Systems, Inc."
+    },
+    {
+      "vid":"05A7",
+      "vendor":"Bose Corp."
+    },
+    {
+      "vid":"05A8",
+      "vendor":"Spacetec IMC Corp."
+    },
+    {
+      "vid":"05A9",
+      "vendor":"OmniVision Technologies, Inc."
+    },
+    {
+      "vid":"05AA",
+      "vendor":"Utilux South China, Ltd"
+    },
+    {
+      "vid":"05AB",
+      "vendor":"In-System Design"
+    },
+    {
+      "vid":"05AC",
+      "vendor":"Apple, Inc."
+    },
+    {
+      "vid":"05AD",
+      "vendor":"Y.C. Cable U.S.A., Inc."
+    },
+    {
+      "vid":"05AE",
+      "vendor":"Synopsys, Inc."
+    },
+    {
+      "vid":"05AF",
+      "vendor":"Jing-Mold Enterprise Co., Ltd"
+    },
+    {
+      "vid":"05B0",
+      "vendor":"Fountain Technologies, Inc."
+    },
+    {
+      "vid":"05B1",
+      "vendor":"First International Computer, Inc."
+    },
+    {
+      "vid":"05B4",
+      "vendor":"LG Semicon Co., Ltd"
+    },
+    {
+      "vid":"05B5",
+      "vendor":"Dialogic Corp."
+    },
+    {
+      "vid":"05B6",
+      "vendor":"Proxima Corp."
+    },
+    {
+      "vid":"05B7",
+      "vendor":"Medianix Semiconductor, Inc."
+    },
+    {
+      "vid":"05B8",
+      "vendor":"Agiler, Inc."
+    },
+    {
+      "vid":"05B9",
+      "vendor":"Philips Research Laboratories"
+    },
+    {
+      "vid":"05BA",
+      "vendor":"DigitalPersona, Inc."
+    },
+    {
+      "vid":"05BB",
+      "vendor":"Grey Cell Systems"
+    },
+    {
+      "vid":"05BC",
+      "vendor":"3G Green Green Globe Co., Ltd"
+    },
+    {
+      "vid":"05BD",
+      "vendor":"RAFI GmbH &amp; Co. KG"
+    },
+    {
+      "vid":"05BE",
+      "vendor":"Tyco Electronics (Raychem)"
+    },
+    {
+      "vid":"05BF",
+      "vendor":"S &amp; S Research"
+    },
+    {
+      "vid":"05C0",
+      "vendor":"Keil Software"
+    },
+    {
+      "vid":"05C1",
+      "vendor":"Kawasaki Microelectronics, Inc."
+    },
+    {
+      "vid":"05C2",
+      "vendor":"Media Phonics (Suisse) S.A."
+    },
+    {
+      "vid":"05C5",
+      "vendor":"Digi International, Inc."
+    },
+    {
+      "vid":"05C6",
+      "vendor":"Qualcomm, Inc."
+    },
+    {
+      "vid":"05C7",
+      "vendor":"Qtronix Corp."
+    },
+    {
+      "vid":"05C8",
+      "vendor":"Cheng Uei Precision Industry Co., Ltd (Foxlink)"
+    },
+    {
+      "vid":"05C9",
+      "vendor":"Semtech Corp."
+    },
+    {
+      "vid":"05CA",
+      "vendor":"Ricoh Co., Ltd"
+    },
+    {
+      "vid":"05CB",
+      "vendor":"PowerVision Technologies, Inc."
+    },
+    {
+      "vid":"05CC",
+      "vendor":"ELSA AG"
+    },
+    {
+      "vid":"05CD",
+      "vendor":"Silicom, Ltd"
+    },
+    {
+      "vid":"05CE",
+      "vendor":"sci-worx GmbH"
+    },
+    {
+      "vid":"05CF",
+      "vendor":"Sung Forn Co., Ltd"
+    },
+    {
+      "vid":"05D0",
+      "vendor":"GE Medical Systems Lunar"
+    },
+    {
+      "vid":"05D1",
+      "vendor":"Brainboxes, Ltd"
+    },
+    {
+      "vid":"05D2",
+      "vendor":"Wave Systems Corp."
+    },
+    {
+      "vid":"05D3",
+      "vendor":"Tohoku Ricoh Co., Ltd"
+    },
+    {
+      "vid":"05D5",
+      "vendor":"Super Gate Technology Co., Ltd"
+    },
+    {
+      "vid":"05D6",
+      "vendor":"Philips Semiconductors, CICT"
+    },
+    {
+      "vid":"05D7",
+      "vendor":"Thomas &amp; Betts Corp."
+    },
+    {
+      "vid":"05D8",
+      "vendor":"Ultima Electronics Corp."
+    },
+    {
+      "vid":"05D9",
+      "vendor":"Axiohm Transaction Solutions"
+    },
+    {
+      "vid":"05DA",
+      "vendor":"Microtek International, Inc."
+    },
+    {
+      "vid":"05DB",
+      "vendor":"Sun Corp. (Suntac?)"
+    },
+    {
+      "vid":"05DC",
+      "vendor":"Lexar Media, Inc."
+    },
+    {
+      "vid":"05DD",
+      "vendor":"Delta Electronics, Inc."
+    },
+    {
+      "vid":"05DF",
+      "vendor":"Silicon Vision, Inc."
+    },
+    {
+      "vid":"05E0",
+      "vendor":"Symbol Technologies"
+    },
+    {
+      "vid":"05E1",
+      "vendor":"Syntek Semiconductor Co., Ltd"
+    },
+    {
+      "vid":"05E2",
+      "vendor":"ElecVision, Inc."
+    },
+    {
+      "vid":"05E3",
+      "vendor":"Genesys Logic, Inc."
+    },
+    {
+      "vid":"05E4",
+      "vendor":"Red Wing Corp."
+    },
+    {
+      "vid":"05E5",
+      "vendor":"Fuji Electric Co., Ltd"
+    },
+    {
+      "vid":"05E6",
+      "vendor":"Keithley Instruments"
+    },
+    {
+      "vid":"05E8",
+      "vendor":"ICC, Inc."
+    },
+    {
+      "vid":"05E9",
+      "vendor":"Kawasaki LSI"
+    },
+    {
+      "vid":"05EB",
+      "vendor":"FFC, Ltd"
+    },
+    {
+      "vid":"05EC",
+      "vendor":"COM21, Inc."
+    },
+    {
+      "vid":"05EE",
+      "vendor":"Cytechinfo Inc."
+    },
+    {
+      "vid":"05EF",
+      "vendor":"AVB, Inc. [anko?]"
+    },
+    {
+      "vid":"05F0",
+      "vendor":"Canopus Co., Ltd"
+    },
+    {
+      "vid":"05F1",
+      "vendor":"Compass Communications"
+    },
+    {
+      "vid":"05F2",
+      "vendor":"Dexin Corp., Ltd"
+    },
+    {
+      "vid":"05F3",
+      "vendor":"PI Engineering, Inc."
+    },
+    {
+      "vid":"05F5",
+      "vendor":"Unixtar Technology, Inc."
+    },
+    {
+      "vid":"05F6",
+      "vendor":"AOC International"
+    },
+    {
+      "vid":"05F7",
+      "vendor":"RFC Distribution(s) PTE, Ltd"
+    },
+    {
+      "vid":"05F9",
+      "vendor":"PSC Scanning, Inc."
+    },
+    {
+      "vid":"05FA",
+      "vendor":"Siemens Telecommunications Systems, Ltd"
+    },
+    {
+      "vid":"05FC",
+      "vendor":"Harman"
+    },
+    {
+      "vid":"05FD",
+      "vendor":"InterAct, Inc."
+    },
+    {
+      "vid":"05FE",
+      "vendor":"Chic Technology Corp."
+    },
+    {
+      "vid":"05FF",
+      "vendor":"LeCroy Corp."
+    },
+    {
+      "vid":"0600",
+      "vendor":"Barco Display Systems"
+    },
+    {
+      "vid":"0601",
+      "vendor":"Jazz Hipster Corp."
+    },
+    {
+      "vid":"0602",
+      "vendor":"Vista Imaging, Inc."
+    },
+    {
+      "vid":"0603",
+      "vendor":"Novatek Microelectronics Corp."
+    },
+    {
+      "vid":"0604",
+      "vendor":"Jean Co., Ltd"
+    },
+    {
+      "vid":"0605",
+      "vendor":"Anchor C&amp;C Co., Ltd"
+    },
+    {
+      "vid":"0606",
+      "vendor":"Royal Information Electronics Co., Ltd"
+    },
+    {
+      "vid":"0607",
+      "vendor":"Bridge Information Co., Ltd"
+    },
+    {
+      "vid":"0608",
+      "vendor":"Genrad Ads"
+    },
+    {
+      "vid":"0609",
+      "vendor":"SMK Manufacturing, Inc."
+    },
+    {
+      "vid":"060A",
+      "vendor":"Worthington Data Solutions, Inc."
+    },
+    {
+      "vid":"060B",
+      "vendor":"Solid Year"
+    },
+    {
+      "vid":"060C",
+      "vendor":"EEH Datalink GmbH"
+    },
+    {
+      "vid":"060D",
+      "vendor":"Auctor Corp."
+    },
+    {
+      "vid":"060E",
+      "vendor":"Transmonde Technologies, Inc."
+    },
+    {
+      "vid":"060F",
+      "vendor":"Joinsoon Electronics Mfg. Co., Ltd"
+    },
+    {
+      "vid":"0610",
+      "vendor":"Costar Electronics, Inc."
+    },
+    {
+      "vid":"0611",
+      "vendor":"Totoku Electric Co., Ltd"
+    },
+    {
+      "vid":"0613",
+      "vendor":"TransAct Technologies, Inc."
+    },
+    {
+      "vid":"0614",
+      "vendor":"Bio-Rad Laboratories"
+    },
+    {
+      "vid":"0615",
+      "vendor":"Quabbin Wire &amp; Cable Co., Inc."
+    },
+    {
+      "vid":"0616",
+      "vendor":"Future Techno Designs PVT, Ltd"
+    },
+    {
+      "vid":"0617",
+      "vendor":"Swiss Federal Insitute of Technology"
+    },
+    {
+      "vid":"0618",
+      "vendor":"MacAlly"
+    },
+    {
+      "vid":"0619",
+      "vendor":"Seiko Instruments, Inc."
+    },
+    {
+      "vid":"061A",
+      "vendor":"Veridicom International, Inc."
+    },
+    {
+      "vid":"061B",
+      "vendor":"Promptus Communications, Inc."
+    },
+    {
+      "vid":"061C",
+      "vendor":"Act Labs, Ltd"
+    },
+    {
+      "vid":"061D",
+      "vendor":"Quatech, Inc."
+    },
+    {
+      "vid":"061E",
+      "vendor":"Nissei Electric Co."
+    },
+    {
+      "vid":"0620",
+      "vendor":"Alaris, Inc."
+    },
+    {
+      "vid":"0621",
+      "vendor":"ODU-Steckverbindungssysteme GmbH &amp; Co. KG"
+    },
+    {
+      "vid":"0622",
+      "vendor":"Iotech, Inc."
+    },
+    {
+      "vid":"0623",
+      "vendor":"Littelfuse, Inc."
+    },
+    {
+      "vid":"0624",
+      "vendor":"Avocent Corp."
+    },
+    {
+      "vid":"0625",
+      "vendor":"TiMedia Technology Co., Ltd"
+    },
+    {
+      "vid":"0626",
+      "vendor":"Nippon Systems Development Co., Ltd"
+    },
+    {
+      "vid":"0627",
+      "vendor":"Adomax Technology Co., Ltd"
+    },
+    {
+      "vid":"0628",
+      "vendor":"Tasking Software, Inc."
+    },
+    {
+      "vid":"0629",
+      "vendor":"Zida Technologies, Ltd"
+    },
+    {
+      "vid":"062A",
+      "vendor":"MosArt Semiconductor Corp."
+    },
+    {
+      "vid":"062B",
+      "vendor":"Greatlink Electronics Taiwan, Ltd"
+    },
+    {
+      "vid":"062C",
+      "vendor":"Institute for Information Industry"
+    },
+    {
+      "vid":"062D",
+      "vendor":"Taiwan Tai-Hao Enterprises Co., Ltd"
+    },
+    {
+      "vid":"062E",
+      "vendor":"Mainsuper Enterprises Co., Ltd"
+    },
+    {
+      "vid":"062F",
+      "vendor":"Sin Sheng Terminal &amp; Machine, Inc."
+    },
+    {
+      "vid":"0631",
+      "vendor":"JUJO Electronics Corp."
+    },
+    {
+      "vid":"0633",
+      "vendor":"Cyrix Corp."
+    },
+    {
+      "vid":"0634",
+      "vendor":"Micron Technology, Inc."
+    },
+    {
+      "vid":"0635",
+      "vendor":"Methode Electronics, Inc."
+    },
+    {
+      "vid":"0636",
+      "vendor":"Sierra Imaging, Inc."
+    },
+    {
+      "vid":"0638",
+      "vendor":"Avision, Inc."
+    },
+    {
+      "vid":"0639",
+      "vendor":"Chrontel, Inc."
+    },
+    {
+      "vid":"063A",
+      "vendor":"Techwin Corp."
+    },
+    {
+      "vid":"063B",
+      "vendor":"Taugagreining HF"
+    },
+    {
+      "vid":"063C",
+      "vendor":"Yamaichi Electronics Co., Ltd (Sakura)"
+    },
+    {
+      "vid":"063D",
+      "vendor":"Fong Kai Industrial Co., Ltd"
+    },
+    {
+      "vid":"063E",
+      "vendor":"RealMedia Technology, Inc."
+    },
+    {
+      "vid":"063F",
+      "vendor":"New Technology Cable, Ltd"
+    },
+    {
+      "vid":"0640",
+      "vendor":"Hitex Development Tools"
+    },
+    {
+      "vid":"0641",
+      "vendor":"Woods Industries, Inc."
+    },
+    {
+      "vid":"0642",
+      "vendor":"VIA Medical Corp."
+    },
+    {
+      "vid":"0644",
+      "vendor":"TEAC Corp."
+    },
+    {
+      "vid":"0645",
+      "vendor":"Who? Vision Systems, Inc."
+    },
+    {
+      "vid":"0646",
+      "vendor":"UMAX"
+    },
+    {
+      "vid":"0647",
+      "vendor":"Acton Research Corp."
+    },
+    {
+      "vid":"0648",
+      "vendor":"Inside Out Networks"
+    },
+    {
+      "vid":"0649",
+      "vendor":"Weli Science Co., Ltd"
+    },
+    {
+      "vid":"064B",
+      "vendor":"Analog Devices, Inc. (White Mountain DSP)"
+    },
+    {
+      "vid":"064C",
+      "vendor":"Ji-Haw Industrial Co., Ltd"
+    },
+    {
+      "vid":"064D",
+      "vendor":"TriTech Microelectronics, Ltd"
+    },
+    {
+      "vid":"064E",
+      "vendor":"Suyin Corp."
+    },
+    {
+      "vid":"064F",
+      "vendor":"WIBU-Systems AG"
+    },
+    {
+      "vid":"0650",
+      "vendor":"Dynapro Systems"
+    },
+    {
+      "vid":"0651",
+      "vendor":"Likom Technology Sdn. Bhd."
+    },
+    {
+      "vid":"0652",
+      "vendor":"Stargate Solutions, Inc."
+    },
+    {
+      "vid":"0653",
+      "vendor":"CNF, Inc."
+    },
+    {
+      "vid":"0654",
+      "vendor":"Granite Microsystems, Inc."
+    },
+    {
+      "vid":"0655",
+      "vendor":"Space Shuttle Hi-Tech Co., Ltd"
+    },
+    {
+      "vid":"0656",
+      "vendor":"Glory Mark Electronic, Ltd"
+    },
+    {
+      "vid":"0657",
+      "vendor":"Tekcon Electronics Corp."
+    },
+    {
+      "vid":"0658",
+      "vendor":"Sigma Designs, Inc."
+    },
+    {
+      "vid":"0659",
+      "vendor":"Aethra"
+    },
+    {
+      "vid":"065A",
+      "vendor":"Optoelectronics Co., Ltd"
+    },
+    {
+      "vid":"065B",
+      "vendor":"Tracewell Systems"
+    },
+    {
+      "vid":"065E",
+      "vendor":"Silicon Graphics"
+    },
+    {
+      "vid":"065F",
+      "vendor":"Good Way Technology Co., Ltd &amp; GWC technology Inc."
+    },
+    {
+      "vid":"0660",
+      "vendor":"TSAY-E (BVI) International, Inc."
+    },
+    {
+      "vid":"0661",
+      "vendor":"Hamamatsu Photonics K.K."
+    },
+    {
+      "vid":"0662",
+      "vendor":"Kansai Electric Co., Ltd"
+    },
+    {
+      "vid":"0663",
+      "vendor":"Topmax Electronic Co., Ltd"
+    },
+    {
+      "vid":"0664",
+      "vendor":"ET&amp;T Technology Co., Ltd."
+    },
+    {
+      "vid":"0665",
+      "vendor":"Cypress Semiconductor"
+    },
+    {
+      "vid":"0667",
+      "vendor":"Aiwa Co., Ltd"
+    },
+    {
+      "vid":"0668",
+      "vendor":"WordWand"
+    },
+    {
+      "vid":"0669",
+      "vendor":"Oce' Printing Systems GmbH"
+    },
+    {
+      "vid":"066A",
+      "vendor":"Total Technologies, Ltd"
+    },
+    {
+      "vid":"066B",
+      "vendor":"Linksys, Inc."
+    },
+    {
+      "vid":"066D",
+      "vendor":"Entrega, Inc."
+    },
+    {
+      "vid":"066E",
+      "vendor":"Acer Semiconductor America, Inc."
+    },
+    {
+      "vid":"066F",
+      "vendor":"SigmaTel, Inc."
+    },
+    {
+      "vid":"0670",
+      "vendor":"Sequel Imaging"
+    },
+    {
+      "vid":"0672",
+      "vendor":"Labtec, Inc."
+    },
+    {
+      "vid":"0673",
+      "vendor":"HCL"
+    },
+    {
+      "vid":"0674",
+      "vendor":"Key Mouse Electronic Enterprise Co., Ltd"
+    },
+    {
+      "vid":"0675",
+      "vendor":"DrayTek Corp."
+    },
+    {
+      "vid":"0676",
+      "vendor":"Teles AG"
+    },
+    {
+      "vid":"0677",
+      "vendor":"Aiwa Co., Ltd"
+    },
+    {
+      "vid":"0678",
+      "vendor":"ACard Technology Corp."
+    },
+    {
+      "vid":"067B",
+      "vendor":"Prolific Technology, Inc."
+    },
+    {
+      "vid":"067C",
+      "vendor":"Efficient Networks, Inc."
+    },
+    {
+      "vid":"067D",
+      "vendor":"Hohner Corp."
+    },
+    {
+      "vid":"067E",
+      "vendor":"Intermec Technologies Corp."
+    },
+    {
+      "vid":"067F",
+      "vendor":"Virata, Ltd"
+    },
+    {
+      "vid":"0680",
+      "vendor":"Realtek Semiconductor Corp., CPP Div. (Avance Logic)"
+    },
+    {
+      "vid":"0681",
+      "vendor":"Siemens Information and Communication Products"
+    },
+    {
+      "vid":"0682",
+      "vendor":"Victor Company of Japan, Ltd"
+    },
+    {
+      "vid":"0684",
+      "vendor":"Actiontec Electronics, Inc."
+    },
+    {
+      "vid":"0685",
+      "vendor":"ZD Incorporated"
+    },
+    {
+      "vid":"0686",
+      "vendor":"Minolta Co., Ltd"
+    },
+    {
+      "vid":"068A",
+      "vendor":"Pertech, Inc."
+    },
+    {
+      "vid":"068B",
+      "vendor":"Potrans International, Inc."
+    },
+    {
+      "vid":"068E",
+      "vendor":"CH Products, Inc."
+    },
+    {
+      "vid":"0690",
+      "vendor":"Golden Bridge Electech, Inc."
+    },
+    {
+      "vid":"0693",
+      "vendor":"Hagiwara Sys-Com Co., Ltd"
+    },
+    {
+      "vid":"0694",
+      "vendor":"Lego Group"
+    },
+    {
+      "vid":"0698",
+      "vendor":"Chuntex (CTX)"
+    },
+    {
+      "vid":"0699",
+      "vendor":"Tektronix, Inc."
+    },
+    {
+      "vid":"069A",
+      "vendor":"Askey Computer Corp."
+    },
+    {
+      "vid":"069B",
+      "vendor":"Thomson, Inc."
+    },
+    {
+      "vid":"069D",
+      "vendor":"Hughes Network Systems (HNS)"
+    },
+    {
+      "vid":"069E",
+      "vendor":"Welcat Inc."
+    },
+    {
+      "vid":"069F",
+      "vendor":"Allied Data Technologies BV"
+    },
+    {
+      "vid":"06A2",
+      "vendor":"Topro Technology, Inc."
+    },
+    {
+      "vid":"06A3",
+      "vendor":"Saitek PLC"
+    },
+    {
+      "vid":"06A4",
+      "vendor":"Xiamen Doowell Electron Co., Ltd"
+    },
+    {
+      "vid":"06A5",
+      "vendor":"Divio"
+    },
+    {
+      "vid":"06A7",
+      "vendor":"MicroStore, Inc."
+    },
+    {
+      "vid":"06A8",
+      "vendor":"Topaz Systems, Inc."
+    },
+    {
+      "vid":"06A9",
+      "vendor":"Westell"
+    },
+    {
+      "vid":"06AA",
+      "vendor":"Sysgration, Ltd"
+    },
+    {
+      "vid":"06AC",
+      "vendor":"Fujitsu Laboratories of America, Inc."
+    },
+    {
+      "vid":"06AD",
+      "vendor":"Greatland Electronics Taiwan, Ltd"
+    },
+    {
+      "vid":"06AE",
+      "vendor":"Professional Multimedia Testing Centre"
+    },
+    {
+      "vid":"06AF",
+      "vendor":"Harting, Inc. of North America"
+    },
+    {
+      "vid":"06B8",
+      "vendor":"Pixela Corp."
+    },
+    {
+      "vid":"06B9",
+      "vendor":"Alcatel Telecom"
+    },
+    {
+      "vid":"06BA",
+      "vendor":"Smooth Cord &amp; Connector Co., Ltd"
+    },
+    {
+      "vid":"06BB",
+      "vendor":"EDA, Inc."
+    },
+    {
+      "vid":"06BC",
+      "vendor":"Oki Data Corp."
+    },
+    {
+      "vid":"06BD",
+      "vendor":"AGFA-Gevaert NV"
+    },
+    {
+      "vid":"06BE",
+      "vendor":"AME Optimedia Technology Co., Ltd"
+    },
+    {
+      "vid":"06BF",
+      "vendor":"Leoco Corp."
+    },
+    {
+      "vid":"06C2",
+      "vendor":"Phidgets Inc. (formerly GLAB)"
+    },
+    {
+      "vid":"06C4",
+      "vendor":"Bizlink International Corp."
+    },
+    {
+      "vid":"06C5",
+      "vendor":"Hagenuk, GmbH"
+    },
+    {
+      "vid":"06C6",
+      "vendor":"Infowave Software, Inc."
+    },
+    {
+      "vid":"06C8",
+      "vendor":"SIIG, Inc."
+    },
+    {
+      "vid":"06C9",
+      "vendor":"Taxan (Europe), Ltd"
+    },
+    {
+      "vid":"06CA",
+      "vendor":"Newer Technology, Inc."
+    },
+    {
+      "vid":"06CB",
+      "vendor":"Synaptics, Inc."
+    },
+    {
+      "vid":"06CC",
+      "vendor":"Terayon Communication Systems"
+    },
+    {
+      "vid":"06CD",
+      "vendor":"Keyspan"
+    },
+    {
+      "vid":"06CE",
+      "vendor":"Contec"
+    },
+    {
+      "vid":"06CF",
+      "vendor":"SpheronVR AG"
+    },
+    {
+      "vid":"06D0",
+      "vendor":"LapLink, Inc."
+    },
+    {
+      "vid":"06D1",
+      "vendor":"Daewoo Electronics Co., Ltd"
+    },
+    {
+      "vid":"06D3",
+      "vendor":"Mitsubishi Electric Corp."
+    },
+    {
+      "vid":"06D4",
+      "vendor":"Cisco Systems"
+    },
+    {
+      "vid":"06D5",
+      "vendor":"Toshiba"
+    },
+    {
+      "vid":"06D6",
+      "vendor":"Aashima Technology B.V."
+    },
+    {
+      "vid":"06D7",
+      "vendor":"Network Computing Devices (NCD)"
+    },
+    {
+      "vid":"06D8",
+      "vendor":"Technical Marketing Research, Inc."
+    },
+    {
+      "vid":"06DA",
+      "vendor":"Phoenixtec Power Co., Ltd"
+    },
+    {
+      "vid":"06DB",
+      "vendor":"Paradyne"
+    },
+    {
+      "vid":"06DC",
+      "vendor":"Foxlink Image Technology Co., Ltd"
+    },
+    {
+      "vid":"06DE",
+      "vendor":"Heisei Electronics Co., Ltd"
+    },
+    {
+      "vid":"06E0",
+      "vendor":"Multi-Tech Systems, Inc."
+    },
+    {
+      "vid":"06E1",
+      "vendor":"ADS Technologies, Inc."
+    },
+    {
+      "vid":"06E4",
+      "vendor":"Alcatel Microelectronics"
+    },
+    {
+      "vid":"06E6",
+      "vendor":"Tiger Jet Network, Inc."
+    },
+    {
+      "vid":"06EA",
+      "vendor":"Sirius Technologies"
+    },
+    {
+      "vid":"06EB",
+      "vendor":"PC Expert Tech. Co., Ltd"
+    },
+    {
+      "vid":"06EF",
+      "vendor":"I.A.C. Geometrische Ingenieurs B.V."
+    },
+    {
+      "vid":"06F0",
+      "vendor":"T.N.C Industrial Co., Ltd"
+    },
+    {
+      "vid":"06F1",
+      "vendor":"Opcode Systems, Inc."
+    },
+    {
+      "vid":"06F2",
+      "vendor":"Emine Technology Co."
+    },
+    {
+      "vid":"06F6",
+      "vendor":"Wintrend Technology Co., Ltd"
+    },
+    {
+      "vid":"06F7",
+      "vendor":"Wailly Technology Ltd"
+    },
+    {
+      "vid":"06F8",
+      "vendor":"Guillemot Corp."
+    },
+    {
+      "vid":"06F9",
+      "vendor":"ASYST electronic d.o.o."
+    },
+    {
+      "vid":"06FA",
+      "vendor":"HSD S.r.L"
+    },
+    {
+      "vid":"06FC",
+      "vendor":"Motorola Semiconductor Products Sector"
+    },
+    {
+      "vid":"06FD",
+      "vendor":"Boston Acoustics"
+    },
+    {
+      "vid":"06FE",
+      "vendor":"Gallant Computer, Inc."
+    },
+    {
+      "vid":"0701",
+      "vendor":"Supercomal Wire &amp; Cable SDN. BHD."
+    },
+    {
+      "vid":"0703",
+      "vendor":"Bvtech Industry, Inc."
+    },
+    {
+      "vid":"0705",
+      "vendor":"NKK Corp."
+    },
+    {
+      "vid":"0706",
+      "vendor":"Ariel Corp."
+    },
+    {
+      "vid":"0707",
+      "vendor":"Standard Microsystems Corp."
+    },
+    {
+      "vid":"0708",
+      "vendor":"Putercom Co., Ltd"
+    },
+    {
+      "vid":"0709",
+      "vendor":"Silicon Systems, Ltd (SSL)"
+    },
+    {
+      "vid":"070A",
+      "vendor":"Oki Electric Industry Co., Ltd"
+    },
+    {
+      "vid":"070D",
+      "vendor":"Comoss Electronic Co., Ltd"
+    },
+    {
+      "vid":"070E",
+      "vendor":"Excel Cell Electronic Co., Ltd"
+    },
+    {
+      "vid":"0710",
+      "vendor":"Connect Tech, Inc."
+    },
+    {
+      "vid":"0711",
+      "vendor":"Magic Control Technology Corp."
+    },
+    {
+      "vid":"0713",
+      "vendor":"Interval Research Corp."
+    },
+    {
+      "vid":"0714",
+      "vendor":"NewMotion, Inc."
+    },
+    {
+      "vid":"0717",
+      "vendor":"ZNK Corp."
+    },
+    {
+      "vid":"0718",
+      "vendor":"Imation Corp."
+    },
+    {
+      "vid":"0719",
+      "vendor":"Tremon Enterprises Co., Ltd"
+    },
+    {
+      "vid":"071B",
+      "vendor":"Domain Technologies, Inc."
+    },
+    {
+      "vid":"071C",
+      "vendor":"Xionics Document Technologies, Inc."
+    },
+    {
+      "vid":"071D",
+      "vendor":"Eicon Networks Corp."
+    },
+    {
+      "vid":"071E",
+      "vendor":"Ariston Technologies"
+    },
+    {
+      "vid":"0720",
+      "vendor":"Keyence Corp."
+    },
+    {
+      "vid":"0723",
+      "vendor":"Centillium Communications Corp."
+    },
+    {
+      "vid":"0726",
+      "vendor":"Vanguard International Semiconductor-America"
+    },
+    {
+      "vid":"0729",
+      "vendor":"Amitm"
+    },
+    {
+      "vid":"072E",
+      "vendor":"Sunix Co., Ltd"
+    },
+    {
+      "vid":"072F",
+      "vendor":"Advanced Card Systems, Ltd"
+    },
+    {
+      "vid":"0731",
+      "vendor":"Susteen, Inc."
+    },
+    {
+      "vid":"0732",
+      "vendor":"Goldfull Electronics &amp; Telecommunications Corp."
+    },
+    {
+      "vid":"0733",
+      "vendor":"ViewQuest Technologies, Inc."
+    },
+    {
+      "vid":"0734",
+      "vendor":"Lasat Communications A/S"
+    },
+    {
+      "vid":"0735",
+      "vendor":"Asuscom Network"
+    },
+    {
+      "vid":"0736",
+      "vendor":"Lorom Industrial Co., Ltd"
+    },
+    {
+      "vid":"0738",
+      "vendor":"Mad Catz, Inc."
+    },
+    {
+      "vid":"073A",
+      "vendor":"Chaplet Systems, Inc."
+    },
+    {
+      "vid":"073B",
+      "vendor":"Suncom Technologies"
+    },
+    {
+      "vid":"073C",
+      "vendor":"Industrial Electronic Engineers, Inc."
+    },
+    {
+      "vid":"073D",
+      "vendor":"Eutron S.p.a."
+    },
+    {
+      "vid":"073E",
+      "vendor":"NEC, Inc."
+    },
+    {
+      "vid":"0742",
+      "vendor":"Stollmann"
+    },
+    {
+      "vid":"0745",
+      "vendor":"Syntech Information Co., Ltd"
+    },
+    {
+      "vid":"0746",
+      "vendor":"Onkyo Corp."
+    },
+    {
+      "vid":"0747",
+      "vendor":"Labway Corp."
+    },
+    {
+      "vid":"0748",
+      "vendor":"Strong Man Enterprise Co., Ltd"
+    },
+    {
+      "vid":"0749",
+      "vendor":"EVer Electronics Corp."
+    },
+    {
+      "vid":"074A",
+      "vendor":"Ming Fortune Industry Co., Ltd"
+    },
+    {
+      "vid":"074B",
+      "vendor":"Polestar Tech. Corp."
+    },
+    {
+      "vid":"074C",
+      "vendor":"C-C-C Group PLC"
+    },
+    {
+      "vid":"074D",
+      "vendor":"Micronas GmbH"
+    },
+    {
+      "vid":"074E",
+      "vendor":"Digital Stream Corp."
+    },
+    {
+      "vid":"0755",
+      "vendor":"Aureal Semiconductor"
+    },
+    {
+      "vid":"0757",
+      "vendor":"Network Technologies, Inc."
+    },
+    {
+      "vid":"0758",
+      "vendor":"Carl Zeiss Microscopy GmbH"
+    },
+    {
+      "vid":"075B",
+      "vendor":"Sophisticated Circuits, Inc."
+    },
+    {
+      "vid":"0763",
+      "vendor":"M-Audio"
+    },
+    {
+      "vid":"0764",
+      "vendor":"Cyber Power System, Inc."
+    },
+    {
+      "vid":"0765",
+      "vendor":"X-Rite, Inc."
+    },
+    {
+      "vid":"0766",
+      "vendor":"Jess-Link Products Co., Ltd"
+    },
+    {
+      "vid":"0767",
+      "vendor":"Tokheim Corp."
+    },
+    {
+      "vid":"0768",
+      "vendor":"Camtel Technology Corp."
+    },
+    {
+      "vid":"0769",
+      "vendor":"Surecom Technology Corp."
+    },
+    {
+      "vid":"076A",
+      "vendor":"Smart Technology Enablers, Inc."
+    },
+    {
+      "vid":"076B",
+      "vendor":"OmniKey AG"
+    },
+    {
+      "vid":"076C",
+      "vendor":"Partner Tech"
+    },
+    {
+      "vid":"076D",
+      "vendor":"Denso Corp."
+    },
+    {
+      "vid":"076E",
+      "vendor":"Kuan Tech Enterprise Co., Ltd"
+    },
+    {
+      "vid":"076F",
+      "vendor":"Jhen Vei Electronic Co., Ltd"
+    },
+    {
+      "vid":"0770",
+      "vendor":"Welch Allyn, Inc - Medical Division"
+    },
+    {
+      "vid":"0771",
+      "vendor":"Observator Instruments BV"
+    },
+    {
+      "vid":"0772",
+      "vendor":"Your data Our Care"
+    },
+    {
+      "vid":"0774",
+      "vendor":"AmTRAN Technology Co., Ltd"
+    },
+    {
+      "vid":"0775",
+      "vendor":"Longshine Electronics Corp."
+    },
+    {
+      "vid":"0776",
+      "vendor":"Inalways Corp."
+    },
+    {
+      "vid":"0777",
+      "vendor":"Comda Enterprise Corp."
+    },
+    {
+      "vid":"0778",
+      "vendor":"Volex, Inc."
+    },
+    {
+      "vid":"0779",
+      "vendor":"Fairchild Semiconductor"
+    },
+    {
+      "vid":"077A",
+      "vendor":"Sankyo Seiki Mfg. Co., Ltd"
+    },
+    {
+      "vid":"077B",
+      "vendor":"Linksys"
+    },
+    {
+      "vid":"077C",
+      "vendor":"Forward Electronics Co., Ltd"
+    },
+    {
+      "vid":"077D",
+      "vendor":"Griffin Technology"
+    },
+    {
+      "vid":"077F",
+      "vendor":"Well Excellent &amp; Most Corp."
+    },
+    {
+      "vid":"0780",
+      "vendor":"Sagem Monetel GmbH"
+    },
+    {
+      "vid":"0781",
+      "vendor":"SanDisk Corp."
+    },
+    {
+      "vid":"0782",
+      "vendor":"Trackerball"
+    },
+    {
+      "vid":"0783",
+      "vendor":"C3PO"
+    },
+    {
+      "vid":"0784",
+      "vendor":"Vivitar, Inc."
+    },
+    {
+      "vid":"0785",
+      "vendor":"NTT-ME"
+    },
+    {
+      "vid":"0789",
+      "vendor":"Logitec Corp."
+    },
+    {
+      "vid":"078B",
+      "vendor":"Happ Controls, Inc."
+    },
+    {
+      "vid":"078C",
+      "vendor":"GTCO/CalComp"
+    },
+    {
+      "vid":"078E",
+      "vendor":"Brincom, Inc."
+    },
+    {
+      "vid":"0790",
+      "vendor":"Pro-Image Manufacturing Co., Ltd"
+    },
+    {
+      "vid":"0791",
+      "vendor":"Copartner Wire and Cable Mfg. Corp."
+    },
+    {
+      "vid":"0792",
+      "vendor":"Axis Communications AB"
+    },
+    {
+      "vid":"0793",
+      "vendor":"Wha Yu Industrial Co., Ltd"
+    },
+    {
+      "vid":"0794",
+      "vendor":"ABL Electronics Corp."
+    },
+    {
+      "vid":"0795",
+      "vendor":"RealChip, Inc."
+    },
+    {
+      "vid":"0796",
+      "vendor":"Certicom Corp."
+    },
+    {
+      "vid":"0797",
+      "vendor":"Grandtech Semiconductor Corp."
+    },
+    {
+      "vid":"0798",
+      "vendor":"Optelec"
+    },
+    {
+      "vid":"0799",
+      "vendor":"Altera"
+    },
+    {
+      "vid":"079B",
+      "vendor":"Sagem"
+    },
+    {
+      "vid":"079D",
+      "vendor":"Alfadata Computer Corp."
+    },
+    {
+      "vid":"07A1",
+      "vendor":"Digicom S.p.A."
+    },
+    {
+      "vid":"07A2",
+      "vendor":"National Technical Systems"
+    },
+    {
+      "vid":"07A3",
+      "vendor":"Onnto Corp."
+    },
+    {
+      "vid":"07A4",
+      "vendor":"Be, Inc."
+    },
+    {
+      "vid":"07A6",
+      "vendor":"ADMtek, Inc."
+    },
+    {
+      "vid":"07AA",
+      "vendor":"Corega K.K."
+    },
+    {
+      "vid":"07AB",
+      "vendor":"Freecom Technologies"
+    },
+    {
+      "vid":"07AF",
+      "vendor":"Microtech"
+    },
+    {
+      "vid":"07B0",
+      "vendor":"Trust Technologies"
+    },
+    {
+      "vid":"07B1",
+      "vendor":"IMP, Inc."
+    },
+    {
+      "vid":"07B2",
+      "vendor":"Motorola BCS, Inc."
+    },
+    {
+      "vid":"07B3",
+      "vendor":"Plustek, Inc."
+    },
+    {
+      "vid":"07B4",
+      "vendor":"Olympus Optical Co., Ltd"
+    },
+    {
+      "vid":"07B5",
+      "vendor":"Mega World International, Ltd"
+    },
+    {
+      "vid":"07B6",
+      "vendor":"Marubun Corp."
+    },
+    {
+      "vid":"07B7",
+      "vendor":"TIME Interconnect, Ltd"
+    },
+    {
+      "vid":"07B8",
+      "vendor":"AboCom Systems Inc"
+    },
+    {
+      "vid":"07BC",
+      "vendor":"Canon Computer Systems, Inc."
+    },
+    {
+      "vid":"07BD",
+      "vendor":"Webgear, Inc."
+    },
+    {
+      "vid":"07BE",
+      "vendor":"Veridicom"
+    },
+    {
+      "vid":"07C0",
+      "vendor":"Code Mercenaries Hard- und Software GmbH"
+    },
+    {
+      "vid":"07C1",
+      "vendor":"Keisokugiken"
+    },
+    {
+      "vid":"07C4",
+      "vendor":"Datafab Systems, Inc."
+    },
+    {
+      "vid":"07C5",
+      "vendor":"APG Cash Drawer"
+    },
+    {
+      "vid":"07C6",
+      "vendor":"ShareWave, Inc."
+    },
+    {
+      "vid":"07C7",
+      "vendor":"Powertech Industrial Co., Ltd"
+    },
+    {
+      "vid":"07C8",
+      "vendor":"B.U.G., Inc."
+    },
+    {
+      "vid":"07C9",
+      "vendor":"Allied Telesyn International"
+    },
+    {
+      "vid":"07CA",
+      "vendor":"AVerMedia Technologies, Inc."
+    },
+    {
+      "vid":"07CB",
+      "vendor":"Kingmax Technology, Inc."
+    },
+    {
+      "vid":"07CC",
+      "vendor":"Carry Computer Eng., Co., Ltd"
+    },
+    {
+      "vid":"07CD",
+      "vendor":"Elektor"
+    },
+    {
+      "vid":"07CF",
+      "vendor":"Casio Computer Co., Ltd"
+    },
+    {
+      "vid":"07D0",
+      "vendor":"Dazzle"
+    },
+    {
+      "vid":"07D1",
+      "vendor":"D-Link System"
+    },
+    {
+      "vid":"07D2",
+      "vendor":"Aptio Products, Inc."
+    },
+    {
+      "vid":"07D3",
+      "vendor":"Cyberdata Corp."
+    },
+    {
+      "vid":"07D5",
+      "vendor":"Radiant Systems"
+    },
+    {
+      "vid":"07D7",
+      "vendor":"GCC Technologies, Inc."
+    },
+    {
+      "vid":"07DA",
+      "vendor":"Arasan Chip Systems"
+    },
+    {
+      "vid":"07DE",
+      "vendor":"Diamond Multimedia"
+    },
+    {
+      "vid":"07DF",
+      "vendor":"David Electronics Co., Ltd"
+    },
+    {
+      "vid":"07E0",
+      "vendor":"NCP engineering GmbH"
+    },
+    {
+      "vid":"07E1",
+      "vendor":"Ambient Technologies, Inc."
+    },
+    {
+      "vid":"07E2",
+      "vendor":"Elmeg GmbH &amp; Co., Ltd"
+    },
+    {
+      "vid":"07E3",
+      "vendor":"Planex Communications, Inc."
+    },
+    {
+      "vid":"07E4",
+      "vendor":"Movado Enterprise Co., Ltd"
+    },
+    {
+      "vid":"07E5",
+      "vendor":"QPS, Inc."
+    },
+    {
+      "vid":"07E6",
+      "vendor":"Allied Cable Corp."
+    },
+    {
+      "vid":"07E7",
+      "vendor":"Mirvo Toys, Inc."
+    },
+    {
+      "vid":"07E8",
+      "vendor":"Labsystems"
+    },
+    {
+      "vid":"07EA",
+      "vendor":"Iwatsu Electric Co., Ltd"
+    },
+    {
+      "vid":"07EB",
+      "vendor":"Double-H Technology Co., Ltd"
+    },
+    {
+      "vid":"07EC",
+      "vendor":"Taiyo Electric Wire &amp; Cable Co., Ltd"
+    },
+    {
+      "vid":"07EE",
+      "vendor":"Torex Retail (formerly Logware)"
+    },
+    {
+      "vid":"07EF",
+      "vendor":"STSN"
+    },
+    {
+      "vid":"07F2",
+      "vendor":"Microcomputer Applications, Inc."
+    },
+    {
+      "vid":"07F6",
+      "vendor":"Circuit Assembly Corp."
+    },
+    {
+      "vid":"07F7",
+      "vendor":"Century Corp."
+    },
+    {
+      "vid":"07F9",
+      "vendor":"Dotop Technology, Inc."
+    },
+    {
+      "vid":"07FA",
+      "vendor":"DrayTek Corp."
+    },
+    {
+      "vid":"07FC",
+      "vendor":"Thomann"
+    },
+    {
+      "vid":"07FD",
+      "vendor":"Mark of the Unicorn"
+    },
+    {
+      "vid":"07FF",
+      "vendor":"Unknown"
+    },
+    {
+      "vid":"0801",
+      "vendor":"MagTek"
+    },
+    {
+      "vid":"0802",
+      "vendor":"Mako Technologies, LLC"
+    },
+    {
+      "vid":"0803",
+      "vendor":"Zoom Telephonics, Inc."
+    },
+    {
+      "vid":"0809",
+      "vendor":"Genicom Technology, Inc."
+    },
+    {
+      "vid":"080A",
+      "vendor":"Evermuch Technology Co., Ltd"
+    },
+    {
+      "vid":"080B",
+      "vendor":"Cross Match Technologies"
+    },
+    {
+      "vid":"080C",
+      "vendor":"Datalogic S.p.A."
+    },
+    {
+      "vid":"080D",
+      "vendor":"Teco Image Systems Co., Ltd"
+    },
+    {
+      "vid":"0810",
+      "vendor":"Personal Communication Systems, Inc."
+    },
+    {
+      "vid":"0813",
+      "vendor":"Mattel, Inc."
+    },
+    {
+      "vid":"0819",
+      "vendor":"eLicenser"
+    },
+    {
+      "vid":"081A",
+      "vendor":"MG Logic"
+    },
+    {
+      "vid":"081B",
+      "vendor":"Indigita Corp."
+    },
+    {
+      "vid":"081C",
+      "vendor":"Mipsys"
+    },
+    {
+      "vid":"081E",
+      "vendor":"AlphaSmart, Inc."
+    },
+    {
+      "vid":"0822",
+      "vendor":"Reudo Corp."
+    },
+    {
+      "vid":"0825",
+      "vendor":"GC Protronics"
+    },
+    {
+      "vid":"0826",
+      "vendor":"Data Transit"
+    },
+    {
+      "vid":"0827",
+      "vendor":"BroadLogic, Inc."
+    },
+    {
+      "vid":"0828",
+      "vendor":"Sato Corp."
+    },
+    {
+      "vid":"0829",
+      "vendor":"DirecTV Broadband, Inc. (Telocity)"
+    },
+    {
+      "vid":"082D",
+      "vendor":"Handspring"
+    },
+    {
+      "vid":"0830",
+      "vendor":"Palm, Inc."
+    },
+    {
+      "vid":"0832",
+      "vendor":"Kouwell Electronics Corp."
+    },
+    {
+      "vid":"0833",
+      "vendor":"Sourcenext Corp."
+    },
+    {
+      "vid":"0835",
+      "vendor":"Action Star Enterprise Co., Ltd"
+    },
+    {
+      "vid":"0836",
+      "vendor":"TrekStor"
+    },
+    {
+      "vid":"0839",
+      "vendor":"Samsung Techwin Co., Ltd"
+    },
+    {
+      "vid":"083A",
+      "vendor":"Accton Technology Corp."
+    },
+    {
+      "vid":"083F",
+      "vendor":"Global Village"
+    },
+    {
+      "vid":"0840",
+      "vendor":"Argosy Research, Inc."
+    },
+    {
+      "vid":"0841",
+      "vendor":"Rioport.com, Inc."
+    },
+    {
+      "vid":"0844",
+      "vendor":"Welland Industrial Co., Ltd"
+    },
+    {
+      "vid":"0846",
+      "vendor":"NetGear, Inc."
+    },
+    {
+      "vid":"084D",
+      "vendor":"Minton Optic Industry Co., Inc."
+    },
+    {
+      "vid":"084E",
+      "vendor":"KB Gear"
+    },
+    {
+      "vid":"084F",
+      "vendor":"Empeg"
+    },
+    {
+      "vid":"0850",
+      "vendor":"Fast Point Technologies, Inc."
+    },
+    {
+      "vid":"0851",
+      "vendor":"Macronix International Co., Ltd"
+    },
+    {
+      "vid":"0852",
+      "vendor":"CSEM"
+    },
+    {
+      "vid":"0853",
+      "vendor":"Topre Corporation"
+    },
+    {
+      "vid":"0854",
+      "vendor":"ActiveWire, Inc."
+    },
+    {
+      "vid":"0856",
+      "vendor":"B&amp;B Electronics"
+    },
+    {
+      "vid":"0858",
+      "vendor":"Hitachi Maxell, Ltd"
+    },
+    {
+      "vid":"0859",
+      "vendor":"Minolta Systems Laboratory, Inc."
+    },
+    {
+      "vid":"085A",
+      "vendor":"Xircom"
+    },
+    {
+      "vid":"085C",
+      "vendor":"ColorVision, Inc."
+    },
+    {
+      "vid":"0862",
+      "vendor":"Teletrol Systems, Inc."
+    },
+    {
+      "vid":"0863",
+      "vendor":"Filanet Corp."
+    },
+    {
+      "vid":"0864",
+      "vendor":"NetGear, Inc."
+    },
+    {
+      "vid":"0867",
+      "vendor":"Data Translation, Inc."
+    },
+    {
+      "vid":"086A",
+      "vendor":"Emagic Soft- und Hardware GmbH"
+    },
+    {
+      "vid":"086C",
+      "vendor":"DeTeWe - Deutsche Telephonwerke AG &amp; Co."
+    },
+    {
+      "vid":"086E",
+      "vendor":"System TALKS, Inc."
+    },
+    {
+      "vid":"086F",
+      "vendor":"MEC IMEX, Inc."
+    },
+    {
+      "vid":"0870",
+      "vendor":"Metricom"
+    },
+    {
+      "vid":"0871",
+      "vendor":"SanDisk, Inc."
+    },
+    {
+      "vid":"0873",
+      "vendor":"Xpeed, Inc."
+    },
+    {
+      "vid":"0874",
+      "vendor":"A-Tec Subsystem, Inc."
+    },
+    {
+      "vid":"0879",
+      "vendor":"Comtrol Corp."
+    },
+    {
+      "vid":"087C",
+      "vendor":"Adesso/Kbtek America, Inc."
+    },
+    {
+      "vid":"087D",
+      "vendor":"Jaton Corp."
+    },
+    {
+      "vid":"087E",
+      "vendor":"Fujitsu Computer Products of America"
+    },
+    {
+      "vid":"087F",
+      "vendor":"QualCore Logic Inc."
+    },
+    {
+      "vid":"0880",
+      "vendor":"APT Technologies, Inc."
+    },
+    {
+      "vid":"0883",
+      "vendor":"Recording Industry Association of America (RIAA)"
+    },
+    {
+      "vid":"0885",
+      "vendor":"Boca Research, Inc."
+    },
+    {
+      "vid":"0886",
+      "vendor":"XAC Automation Corp."
+    },
+    {
+      "vid":"0887",
+      "vendor":"Hannstar Electronics Corp."
+    },
+    {
+      "vid":"088A",
+      "vendor":"TechTools"
+    },
+    {
+      "vid":"088B",
+      "vendor":"MassWorks, Inc."
+    },
+    {
+      "vid":"088C",
+      "vendor":"Swecoin AB"
+    },
+    {
+      "vid":"088E",
+      "vendor":"iLok"
+    },
+    {
+      "vid":"0892",
+      "vendor":"DioGraphy, Inc."
+    },
+    {
+      "vid":"0894",
+      "vendor":"TSI Incorporated"
+    },
+    {
+      "vid":"0897",
+      "vendor":"Lauterbach"
+    },
+    {
+      "vid":"089C",
+      "vendor":"United Technologies Research Cntr."
+    },
+    {
+      "vid":"089D",
+      "vendor":"Icron Technologies Corp."
+    },
+    {
+      "vid":"089E",
+      "vendor":"NST Co., Ltd"
+    },
+    {
+      "vid":"089F",
+      "vendor":"Primex Aerospace Co."
+    },
+    {
+      "vid":"08A5",
+      "vendor":"e9, Inc."
+    },
+    {
+      "vid":"08A6",
+      "vendor":"Toshiba TEC"
+    },
+    {
+      "vid":"08A8",
+      "vendor":"Andrea Electronics"
+    },
+    {
+      "vid":"08A9",
+      "vendor":"CWAV Inc."
+    },
+    {
+      "vid":"08AC",
+      "vendor":"Macraigor Systems LLC"
+    },
+    {
+      "vid":"08AE",
+      "vendor":"Macally (Mace Group, Inc.)"
+    },
+    {
+      "vid":"08B0",
+      "vendor":"Metrohm"
+    },
+    {
+      "vid":"08B4",
+      "vendor":"Sorenson Vision, Inc."
+    },
+    {
+      "vid":"08B7",
+      "vendor":"NATSU"
+    },
+    {
+      "vid":"08B8",
+      "vendor":"J. Gordon Electronic Design, Inc."
+    },
+    {
+      "vid":"08B9",
+      "vendor":"RadioShack Corp. (Tandy)"
+    },
+    {
+      "vid":"08BB",
+      "vendor":"Texas Instruments"
+    },
+    {
+      "vid":"08BD",
+      "vendor":"Citizen Watch Co., Ltd"
+    },
+    {
+      "vid":"08C3",
+      "vendor":"Precise Biometrics"
+    },
+    {
+      "vid":"08C4",
+      "vendor":"Proxim, Inc."
+    },
+    {
+      "vid":"08C7",
+      "vendor":"Key Nice Enterprise Co., Ltd"
+    },
+    {
+      "vid":"08C8",
+      "vendor":"2Wire, Inc."
+    },
+    {
+      "vid":"08C9",
+      "vendor":"Nippon Telegraph and Telephone Corp."
+    },
+    {
+      "vid":"08CA",
+      "vendor":"Aiptek International, Inc."
+    },
+    {
+      "vid":"08CD",
+      "vendor":"Jue Hsun Ind. Corp."
+    },
+    {
+      "vid":"08CE",
+      "vendor":"Long Well Electronics Corp."
+    },
+    {
+      "vid":"08CF",
+      "vendor":"Productivity Enhancement Products"
+    },
+    {
+      "vid":"08D1",
+      "vendor":"smartBridges, Inc."
+    },
+    {
+      "vid":"08D3",
+      "vendor":"Virtual Ink"
+    },
+    {
+      "vid":"08D4",
+      "vendor":"Fujitsu Siemens Computers"
+    },
+    {
+      "vid":"08D8",
+      "vendor":"IXXAT Automation GmbH"
+    },
+    {
+      "vid":"08D9",
+      "vendor":"Increment P Corp."
+    },
+    {
+      "vid":"08DD",
+      "vendor":"Billionton Systems, Inc."
+    },
+    {
+      "vid":"08DE",
+      "vendor":"???"
+    },
+    {
+      "vid":"08DF",
+      "vendor":"Spyrus, Inc."
+    },
+    {
+      "vid":"08E3",
+      "vendor":"Olitec, Inc."
+    },
+    {
+      "vid":"08E4",
+      "vendor":"Pioneer Corp."
+    },
+    {
+      "vid":"08E5",
+      "vendor":"Litronic"
+    },
+    {
+      "vid":"08E6",
+      "vendor":"Gemalto (was Gemplus)"
+    },
+    {
+      "vid":"08E7",
+      "vendor":"Pan-International Wire &amp; Cable"
+    },
+    {
+      "vid":"08E8",
+      "vendor":"Integrated Memory Logic"
+    },
+    {
+      "vid":"08E9",
+      "vendor":"Extended Systems, Inc."
+    },
+    {
+      "vid":"08EA",
+      "vendor":"Ericsson, Inc., Blue Ridge Labs"
+    },
+    {
+      "vid":"08EC",
+      "vendor":"M-Systems Flash Disk Pioneers"
+    },
+    {
+      "vid":"08ED",
+      "vendor":"MediaTek Inc."
+    },
+    {
+      "vid":"08EE",
+      "vendor":"CCSI/Hesso"
+    },
+    {
+      "vid":"08F0",
+      "vendor":"Corex Technologies"
+    },
+    {
+      "vid":"08F1",
+      "vendor":"CTI Electronics Corp."
+    },
+    {
+      "vid":"08F2",
+      "vendor":"Gotop Information Inc."
+    },
+    {
+      "vid":"08F5",
+      "vendor":"SysTec Co., Ltd"
+    },
+    {
+      "vid":"08F6",
+      "vendor":"Logic 3 International, Ltd"
+    },
+    {
+      "vid":"08F7",
+      "vendor":"Vernier"
+    },
+    {
+      "vid":"08F8",
+      "vendor":"Keen Top International Enterprise Co., Ltd"
+    },
+    {
+      "vid":"08F9",
+      "vendor":"Wipro Technologies"
+    },
+    {
+      "vid":"08FA",
+      "vendor":"Caere"
+    },
+    {
+      "vid":"08FB",
+      "vendor":"Socket Communications"
+    },
+    {
+      "vid":"08FC",
+      "vendor":"Sicon Cable Technology Co., Ltd"
+    },
+    {
+      "vid":"08FD",
+      "vendor":"Digianswer A/S"
+    },
+    {
+      "vid":"08FF",
+      "vendor":"AuthenTec, Inc."
+    },
+    {
+      "vid":"0900",
+      "vendor":"Pinnacle Systems, Inc."
+    },
+    {
+      "vid":"0901",
+      "vendor":"VST Technologies"
+    },
+    {
+      "vid":"0906",
+      "vendor":"Faraday Technology Corp."
+    },
+    {
+      "vid":"0908",
+      "vendor":"Siemens AG"
+    },
+    {
+      "vid":"0909",
+      "vendor":"Audio-Technica Corp."
+    },
+    {
+      "vid":"090A",
+      "vendor":"Trumpion Microelectronics, Inc."
+    },
+    {
+      "vid":"090B",
+      "vendor":"Neurosmith"
+    },
+    {
+      "vid":"090C",
+      "vendor":"Silicon Motion, Inc. - Taiwan (formerly Feiya Technology Corp.)"
+    },
+    {
+      "vid":"090D",
+      "vendor":"Multiport Computer Vertriebs GmbH"
+    },
+    {
+      "vid":"090E",
+      "vendor":"Shining Technology, Inc."
+    },
+    {
+      "vid":"090F",
+      "vendor":"Fujitsu Devices, Inc."
+    },
+    {
+      "vid":"0910",
+      "vendor":"Alation Systems, Inc."
+    },
+    {
+      "vid":"0911",
+      "vendor":"Philips Speech Processing"
+    },
+    {
+      "vid":"0912",
+      "vendor":"Voquette, Inc."
+    },
+    {
+      "vid":"0915",
+      "vendor":"GlobeSpan, Inc."
+    },
+    {
+      "vid":"0917",
+      "vendor":"SmartDisk Corp."
+    },
+    {
+      "vid":"0919",
+      "vendor":"Tiger Electronics"
+    },
+    {
+      "vid":"091E",
+      "vendor":"Garmin International"
+    },
+    {
+      "vid":"0920",
+      "vendor":"Echelon Co."
+    },
+    {
+      "vid":"0921",
+      "vendor":"GoHubs, Inc."
+    },
+    {
+      "vid":"0922",
+      "vendor":"Dymo-CoStar Corp."
+    },
+    {
+      "vid":"0923",
+      "vendor":"IC Media Corp."
+    },
+    {
+      "vid":"0924",
+      "vendor":"Xerox"
+    },
+    {
+      "vid":"0925",
+      "vendor":"Lakeview Research"
+    },
+    {
+      "vid":"0927",
+      "vendor":"Summus, Ltd"
+    },
+    {
+      "vid":"0928",
+      "vendor":"PLX Technology, Inc. (formerly Oxford Semiconductor, Ltd)"
+    },
+    {
+      "vid":"0929",
+      "vendor":"American Biometric Co."
+    },
+    {
+      "vid":"092A",
+      "vendor":"Toshiba Information &amp; Industrial Sys. And Services"
+    },
+    {
+      "vid":"092B",
+      "vendor":"Sena Technologies, Inc."
+    },
+    {
+      "vid":"092F",
+      "vendor":"Northern Embedded Science/CAVNEX"
+    },
+    {
+      "vid":"0930",
+      "vendor":"Toshiba Corp."
+    },
+    {
+      "vid":"0931",
+      "vendor":"Harmonic Data Systems, Ltd"
+    },
+    {
+      "vid":"0932",
+      "vendor":"Crescentec Corp."
+    },
+    {
+      "vid":"0933",
+      "vendor":"Quantum Corp."
+    },
+    {
+      "vid":"0934",
+      "vendor":"Spirent Communications"
+    },
+    {
+      "vid":"0936",
+      "vendor":"NuTesla"
+    },
+    {
+      "vid":"0939",
+      "vendor":"Lumberg, Inc."
+    },
+    {
+      "vid":"093A",
+      "vendor":"Pixart Imaging, Inc."
+    },
+    {
+      "vid":"093B",
+      "vendor":"Plextor Corp."
+    },
+    {
+      "vid":"093C",
+      "vendor":"Intrepid Control Systems, Inc."
+    },
+    {
+      "vid":"093D",
+      "vendor":"InnoSync, Inc."
+    },
+    {
+      "vid":"093E",
+      "vendor":"J.S.T. Mfg. Co., Ltd"
+    },
+    {
+      "vid":"093F",
+      "vendor":"Olympia Telecom Vertriebs GmbH"
+    },
+    {
+      "vid":"0940",
+      "vendor":"Japan Storage Battery Co., Ltd"
+    },
+    {
+      "vid":"0941",
+      "vendor":"Photobit Corp."
+    },
+    {
+      "vid":"0942",
+      "vendor":"i2Go.com, LLC"
+    },
+    {
+      "vid":"0943",
+      "vendor":"HCL Technologies India Private, Ltd"
+    },
+    {
+      "vid":"0944",
+      "vendor":"KORG, Inc."
+    },
+    {
+      "vid":"0945",
+      "vendor":"Pasco Scientific"
+    },
+    {
+      "vid":"0948",
+      "vendor":"Kronauer music in digital"
+    },
+    {
+      "vid":"094B",
+      "vendor":"Linkup Systems Corp."
+    },
+    {
+      "vid":"094D",
+      "vendor":"Cable Television Laboratories"
+    },
+    {
+      "vid":"094F",
+      "vendor":"Yano"
+    },
+    {
+      "vid":"0951",
+      "vendor":"Kingston Technology"
+    },
+    {
+      "vid":"0954",
+      "vendor":"RPM Systems Corp."
+    },
+    {
+      "vid":"0955",
+      "vendor":"NVIDIA Corp."
+    },
+    {
+      "vid":"0956",
+      "vendor":"BSquare Corp."
+    },
+    {
+      "vid":"0957",
+      "vendor":"Agilent Technologies, Inc."
+    },
+    {
+      "vid":"0958",
+      "vendor":"CompuLink Research, Inc."
+    },
+    {
+      "vid":"0959",
+      "vendor":"Cologne Chip AG"
+    },
+    {
+      "vid":"095A",
+      "vendor":"Portsmith"
+    },
+    {
+      "vid":"095B",
+      "vendor":"Medialogic Corp."
+    },
+    {
+      "vid":"095C",
+      "vendor":"K-Tec Electronics"
+    },
+    {
+      "vid":"095D",
+      "vendor":"Polycom, Inc."
+    },
+    {
+      "vid":"0964",
+      "vendor":"BITRAN"
+    },
+    {
+      "vid":"0967",
+      "vendor":"Acer NeWeb Corp."
+    },
+    {
+      "vid":"0968",
+      "vendor":"Catalyst Enterprises, Inc."
+    },
+    {
+      "vid":"096E",
+      "vendor":"Feitian Technologies, Inc."
+    },
+    {
+      "vid":"0971",
+      "vendor":"Gretag-Macbeth AG"
+    },
+    {
+      "vid":"0973",
+      "vendor":"Schlumberger"
+    },
+    {
+      "vid":"0974",
+      "vendor":"Datagraphix, a business unit of Anacomp"
+    },
+    {
+      "vid":"0975",
+      "vendor":"OL'E Communications, Inc."
+    },
+    {
+      "vid":"0976",
+      "vendor":"Adirondack Wire &amp; Cable"
+    },
+    {
+      "vid":"0977",
+      "vendor":"Lightsurf Technologies"
+    },
+    {
+      "vid":"0978",
+      "vendor":"Beckhoff GmbH"
+    },
+    {
+      "vid":"0979",
+      "vendor":"Jeilin Technology Corp., Ltd"
+    },
+    {
+      "vid":"097A",
+      "vendor":"Minds At Work LLC"
+    },
+    {
+      "vid":"097B",
+      "vendor":"Knudsen Engineering, Ltd"
+    },
+    {
+      "vid":"097C",
+      "vendor":"Marunix Co., Ltd"
+    },
+    {
+      "vid":"097D",
+      "vendor":"Rosun Technologies, Inc."
+    },
+    {
+      "vid":"097E",
+      "vendor":"Biopac Systems Inc."
+    },
+    {
+      "vid":"097F",
+      "vendor":"Barun Electronics Co., Ltd"
+    },
+    {
+      "vid":"0981",
+      "vendor":"Oak Technology, Ltd"
+    },
+    {
+      "vid":"0984",
+      "vendor":"Apricorn"
+    },
+    {
+      "vid":"0985",
+      "vendor":"cab Produkttechnik GmbH &amp; Co KG"
+    },
+    {
+      "vid":"0986",
+      "vendor":"Matsushita Electric Works, Ltd."
+    },
+    {
+      "vid":"098C",
+      "vendor":"Vitana Corp."
+    },
+    {
+      "vid":"098D",
+      "vendor":"INDesign"
+    },
+    {
+      "vid":"098E",
+      "vendor":"Integrated Intellectual Property, Inc."
+    },
+    {
+      "vid":"098F",
+      "vendor":"Kenwood TMI Corp."
+    },
+    {
+      "vid":"0993",
+      "vendor":"Gemstar eBook Group, Ltd"
+    },
+    {
+      "vid":"0996",
+      "vendor":"Integrated Telecom Express, Inc."
+    },
+    {
+      "vid":"099A",
+      "vendor":"Zippy Technology Corp."
+    },
+    {
+      "vid":"099E",
+      "vendor":"Trimble Navigation, Ltd"
+    },
+    {
+      "vid":"09A3",
+      "vendor":"PairGain Technologies"
+    },
+    {
+      "vid":"09A4",
+      "vendor":"Contech Research, Inc."
+    },
+    {
+      "vid":"09A5",
+      "vendor":"VCON Telecommunications"
+    },
+    {
+      "vid":"09A6",
+      "vendor":"Poinchips"
+    },
+    {
+      "vid":"09A7",
+      "vendor":"Data Transmission Network Corp."
+    },
+    {
+      "vid":"09A8",
+      "vendor":"Lin Shiung Enterprise Co., Ltd"
+    },
+    {
+      "vid":"09A9",
+      "vendor":"Smart Card Technologies Co., Ltd"
+    },
+    {
+      "vid":"09AA",
+      "vendor":"Intersil Corp."
+    },
+    {
+      "vid":"09AB",
+      "vendor":"Japan Cash Machine Co., Ltd."
+    },
+    {
+      "vid":"09AE",
+      "vendor":"Tripp Lite"
+    },
+    {
+      "vid":"09B2",
+      "vendor":"Franklin Electronic Publishers, Inc."
+    },
+    {
+      "vid":"09B3",
+      "vendor":"Altius Solutions, Inc."
+    },
+    {
+      "vid":"09B4",
+      "vendor":"MDS Telephone Systems"
+    },
+    {
+      "vid":"09B5",
+      "vendor":"Celltrix Technology Co., Ltd"
+    },
+    {
+      "vid":"09BC",
+      "vendor":"Grundig"
+    },
+    {
+      "vid":"09BE",
+      "vendor":"MySmart.Com"
+    },
+    {
+      "vid":"09BF",
+      "vendor":"Auerswald GmbH &amp; Co. KG"
+    },
+    {
+      "vid":"09C0",
+      "vendor":"Genpix Electronics, LLC"
+    },
+    {
+      "vid":"09C1",
+      "vendor":"Arris Interactive LLC"
+    },
+    {
+      "vid":"09C2",
+      "vendor":"Nisca Corp."
+    },
+    {
+      "vid":"09C3",
+      "vendor":"ActivCard, Inc."
+    },
+    {
+      "vid":"09C4",
+      "vendor":"ACTiSYS Corp."
+    },
+    {
+      "vid":"09C5",
+      "vendor":"Memory Corp."
+    },
+    {
+      "vid":"09CA",
+      "vendor":"BMC Messsysteme GmbH"
+    },
+    {
+      "vid":"09CB",
+      "vendor":"FLIR Systems"
+    },
+    {
+      "vid":"09CC",
+      "vendor":"Workbit Corp."
+    },
+    {
+      "vid":"09CD",
+      "vendor":"Psion Dacom Home Networks, Ltd"
+    },
+    {
+      "vid":"09CE",
+      "vendor":"City Electronics, Ltd"
+    },
+    {
+      "vid":"09CF",
+      "vendor":"Electronics Testing Center, Taiwan"
+    },
+    {
+      "vid":"09D1",
+      "vendor":"NeoMagic, Inc."
+    },
+    {
+      "vid":"09D2",
+      "vendor":"Vreelin Engineering, Inc."
+    },
+    {
+      "vid":"09D3",
+      "vendor":"Com One"
+    },
+    {
+      "vid":"09D7",
+      "vendor":"NovAtel Inc."
+    },
+    {
+      "vid":"09D8",
+      "vendor":"ELATEC"
+    },
+    {
+      "vid":"09D9",
+      "vendor":"KRF Tech, Ltd"
+    },
+    {
+      "vid":"09DA",
+      "vendor":"A4Tech Co., Ltd."
+    },
+    {
+      "vid":"09DB",
+      "vendor":"Measurement Computing Corp."
+    },
+    {
+      "vid":"09DC",
+      "vendor":"Aimex Corp."
+    },
+    {
+      "vid":"09DD",
+      "vendor":"Fellowes, Inc."
+    },
+    {
+      "vid":"09DF",
+      "vendor":"Addonics Technologies Corp."
+    },
+    {
+      "vid":"09E1",
+      "vendor":"Intellon Corp."
+    },
+    {
+      "vid":"09E5",
+      "vendor":"Jo-Dan International, Inc."
+    },
+    {
+      "vid":"09E6",
+      "vendor":"Silutia, Inc."
+    },
+    {
+      "vid":"09E7",
+      "vendor":"Real 3D, Inc."
+    },
+    {
+      "vid":"09E8",
+      "vendor":"AKAI Professional M.I. Corp."
+    },
+    {
+      "vid":"09E9",
+      "vendor":"Chen-Source, Inc."
+    },
+    {
+      "vid":"09EB",
+      "vendor":"IM Networks, Inc."
+    },
+    {
+      "vid":"09EF",
+      "vendor":"Xitel"
+    },
+    {
+      "vid":"09F3",
+      "vendor":"GoFlight, Inc."
+    },
+    {
+      "vid":"09F5",
+      "vendor":"AresCom"
+    },
+    {
+      "vid":"09F6",
+      "vendor":"RocketChips, Inc."
+    },
+    {
+      "vid":"09F7",
+      "vendor":"Edu-Science (H.K.), Ltd"
+    },
+    {
+      "vid":"09F8",
+      "vendor":"SoftConnex Technologies, Inc."
+    },
+    {
+      "vid":"09F9",
+      "vendor":"Bay Associates"
+    },
+    {
+      "vid":"09FA",
+      "vendor":"Mtek Vision"
+    },
+    {
+      "vid":"09FB",
+      "vendor":"Altera"
+    },
+    {
+      "vid":"09FF",
+      "vendor":"Gain Technology Corp."
+    },
+    {
+      "vid":"0A00",
+      "vendor":"Liquid Audio"
+    },
+    {
+      "vid":"0A01",
+      "vendor":"ViA, Inc."
+    },
+    {
+      "vid":"0A05",
+      "vendor":"Unknown Manufacturer"
+    },
+    {
+      "vid":"0A07",
+      "vendor":"Ontrak Control Systems Inc."
+    },
+    {
+      "vid":"0A0B",
+      "vendor":"Cybex Computer Products Co."
+    },
+    {
+      "vid":"0A0D",
+      "vendor":"Servergy, Inc"
+    },
+    {
+      "vid":"0A11",
+      "vendor":"Xentec, Inc."
+    },
+    {
+      "vid":"0A12",
+      "vendor":"Cambridge Silicon Radio, Ltd"
+    },
+    {
+      "vid":"0A13",
+      "vendor":"Telebyte, Inc."
+    },
+    {
+      "vid":"0A14",
+      "vendor":"Spacelabs Medical, Inc."
+    },
+    {
+      "vid":"0A15",
+      "vendor":"Scalar Corp."
+    },
+    {
+      "vid":"0A16",
+      "vendor":"Trek Technology (S) PTE, Ltd"
+    },
+    {
+      "vid":"0A17",
+      "vendor":"Pentax Corp."
+    },
+    {
+      "vid":"0A18",
+      "vendor":"Heidelberger Druckmaschinen AG"
+    },
+    {
+      "vid":"0A19",
+      "vendor":"Hua Geng Technologies, Inc."
+    },
+    {
+      "vid":"0A21",
+      "vendor":"Medtronic Physio Control Corp."
+    },
+    {
+      "vid":"0A22",
+      "vendor":"Century Semiconductor USA, Inc."
+    },
+    {
+      "vid":"0A27",
+      "vendor":"Datacard Group"
+    },
+    {
+      "vid":"0A2C",
+      "vendor":"AK-Modul-Bus Computer GmbH"
+    },
+    {
+      "vid":"0A34",
+      "vendor":"TG3 Electronics, Inc."
+    },
+    {
+      "vid":"0A35",
+      "vendor":"Radikal Technologies"
+    },
+    {
+      "vid":"0A39",
+      "vendor":"Gilat Satellite Networks, Ltd"
+    },
+    {
+      "vid":"0A3A",
+      "vendor":"PentaMedia Co., Ltd"
+    },
+    {
+      "vid":"0A3C",
+      "vendor":"NTT DoCoMo, Inc."
+    },
+    {
+      "vid":"0A3D",
+      "vendor":"Varo Vision"
+    },
+    {
+      "vid":"0A3F",
+      "vendor":"Swissonic AG"
+    },
+    {
+      "vid":"0A43",
+      "vendor":"Boca Systems, Inc."
+    },
+    {
+      "vid":"0A46",
+      "vendor":"Davicom Semiconductor, Inc."
+    },
+    {
+      "vid":"0A47",
+      "vendor":"Hirose Electric"
+    },
+    {
+      "vid":"0A48",
+      "vendor":"I/O Interconnect"
+    },
+    {
+      "vid":"0A4A",
+      "vendor":"Ploytec GmbH"
+    },
+    {
+      "vid":"0A4B",
+      "vendor":"Fujitsu Media Devices, Ltd"
+    },
+    {
+      "vid":"0A4C",
+      "vendor":"Computex Co., Ltd"
+    },
+    {
+      "vid":"0A4D",
+      "vendor":"Evolution Electronics, Ltd"
+    },
+    {
+      "vid":"0A4E",
+      "vendor":"Steinberg Soft-und Hardware GmbH"
+    },
+    {
+      "vid":"0A4F",
+      "vendor":"Litton Systems, Inc."
+    },
+    {
+      "vid":"0A50",
+      "vendor":"Mimaki Engineering Co., Ltd"
+    },
+    {
+      "vid":"0A51",
+      "vendor":"Sony Electronics, Inc."
+    },
+    {
+      "vid":"0A52",
+      "vendor":"Jebsee Electronics Co., Ltd"
+    },
+    {
+      "vid":"0A53",
+      "vendor":"Portable Peripheral Co., Ltd"
+    },
+    {
+      "vid":"0A5A",
+      "vendor":"Electronics For Imaging, Inc."
+    },
+    {
+      "vid":"0A5B",
+      "vendor":"EAsics NV"
+    },
+    {
+      "vid":"0A5C",
+      "vendor":"Broadcom Corp."
+    },
+    {
+      "vid":"0A5D",
+      "vendor":"Diatrend Corp."
+    },
+    {
+      "vid":"0A5F",
+      "vendor":"Zebra"
+    },
+    {
+      "vid":"0A62",
+      "vendor":"MPMan"
+    },
+    {
+      "vid":"0A66",
+      "vendor":"ClearCube Technology"
+    },
+    {
+      "vid":"0A67",
+      "vendor":"Medeli Electronics Co., Ltd"
+    },
+    {
+      "vid":"0A68",
+      "vendor":"Comaide Corp."
+    },
+    {
+      "vid":"0A69",
+      "vendor":"Chroma ate, Inc."
+    },
+    {
+      "vid":"0A6B",
+      "vendor":"Green House Co., Ltd"
+    },
+    {
+      "vid":"0A6C",
+      "vendor":"Integrated Circuit Systems, Inc."
+    },
+    {
+      "vid":"0A6D",
+      "vendor":"UPS Manufacturing"
+    },
+    {
+      "vid":"0A6E",
+      "vendor":"Benwin"
+    },
+    {
+      "vid":"0A6F",
+      "vendor":"Core Technology, Inc."
+    },
+    {
+      "vid":"0A70",
+      "vendor":"International Game Technology"
+    },
+    {
+      "vid":"0A71",
+      "vendor":"VIPColor Technologies USA, Inc."
+    },
+    {
+      "vid":"0A72",
+      "vendor":"Sanwa Denshi"
+    },
+    {
+      "vid":"0A73",
+      "vendor":"Mackie Designs"
+    },
+    {
+      "vid":"0A7D",
+      "vendor":"NSTL, Inc."
+    },
+    {
+      "vid":"0A7E",
+      "vendor":"Octagon Systems Corp."
+    },
+    {
+      "vid":"0A80",
+      "vendor":"Rexon Technology Corp., Ltd"
+    },
+    {
+      "vid":"0A81",
+      "vendor":"Chesen Electronics Corp."
+    },
+    {
+      "vid":"0A82",
+      "vendor":"Syscan"
+    },
+    {
+      "vid":"0A83",
+      "vendor":"NextComm, Inc."
+    },
+    {
+      "vid":"0A84",
+      "vendor":"Maui Innovative Peripherals"
+    },
+    {
+      "vid":"0A85",
+      "vendor":"Idexx Labs"
+    },
+    {
+      "vid":"0A86",
+      "vendor":"NITGen Co., Ltd"
+    },
+    {
+      "vid":"0A89",
+      "vendor":"Aktiv"
+    },
+    {
+      "vid":"0A8D",
+      "vendor":"Picturetel"
+    },
+    {
+      "vid":"0A8E",
+      "vendor":"Japan Aviation Electronics Industry, Ltd"
+    },
+    {
+      "vid":"0A90",
+      "vendor":"Candy Technology Co., Ltd"
+    },
+    {
+      "vid":"0A91",
+      "vendor":"Globlink Technology, Inc."
+    },
+    {
+      "vid":"0A92",
+      "vendor":"EGO SYStems, Inc."
+    },
+    {
+      "vid":"0A93",
+      "vendor":"C Technologies AB"
+    },
+    {
+      "vid":"0A94",
+      "vendor":"Intersense"
+    },
+    {
+      "vid":"0AA3",
+      "vendor":"Lava Computer Mfg., Inc."
+    },
+    {
+      "vid":"0AA4",
+      "vendor":"Develco Elektronik"
+    },
+    {
+      "vid":"0AA5",
+      "vendor":"First International Digital"
+    },
+    {
+      "vid":"0AA6",
+      "vendor":"Perception Digital, Ltd"
+    },
+    {
+      "vid":"0AA7",
+      "vendor":"Wincor Nixdorf International GmbH"
+    },
+    {
+      "vid":"0AA8",
+      "vendor":"TriGem Computer, Inc."
+    },
+    {
+      "vid":"0AA9",
+      "vendor":"Baromtec Co."
+    },
+    {
+      "vid":"0AAA",
+      "vendor":"Japan CBM Corp."
+    },
+    {
+      "vid":"0AAB",
+      "vendor":"Vision Shape Europe SA"
+    },
+    {
+      "vid":"0AAC",
+      "vendor":"iCompression, Inc."
+    },
+    {
+      "vid":"0AAD",
+      "vendor":"Rohde &amp; Schwarz GmbH &amp; Co. KG"
+    },
+    {
+      "vid":"0AAE",
+      "vendor":"NEC infrontia Corp. (Nitsuko)"
+    },
+    {
+      "vid":"0AAF",
+      "vendor":"Digitalway Co., Ltd"
+    },
+    {
+      "vid":"0AB0",
+      "vendor":"Arrow Strong Electronics Co., Ltd"
+    },
+    {
+      "vid":"0AB1",
+      "vendor":"FEIG ELECTRONIC GmbH"
+    },
+    {
+      "vid":"0ABA",
+      "vendor":"Ellisys"
+    },
+    {
+      "vid":"0ABE",
+      "vendor":"Stereo-Link"
+    },
+    {
+      "vid":"0ABF",
+      "vendor":"Diolan"
+    },
+    {
+      "vid":"0AC3",
+      "vendor":"Sanyo Semiconductor Company Micro"
+    },
+    {
+      "vid":"0AC4",
+      "vendor":"Leco Corp."
+    },
+    {
+      "vid":"0AC5",
+      "vendor":"I &amp; C Corp."
+    },
+    {
+      "vid":"0AC6",
+      "vendor":"Singing Electrons, Inc."
+    },
+    {
+      "vid":"0AC7",
+      "vendor":"Panwest Corp."
+    },
+    {
+      "vid":"0AC8",
+      "vendor":"Z-Star Microelectronics Corp."
+    },
+    {
+      "vid":"0AC9",
+      "vendor":"Micro Solutions, Inc."
+    },
+    {
+      "vid":"0ACA",
+      "vendor":"OPEN Networks Ltd"
+    },
+    {
+      "vid":"0ACC",
+      "vendor":"Koga Electronics Co."
+    },
+    {
+      "vid":"0ACD",
+      "vendor":"ID Tech"
+    },
+    {
+      "vid":"0ACE",
+      "vendor":"ZyDAS"
+    },
+    {
+      "vid":"0ACF",
+      "vendor":"Intoto, Inc."
+    },
+    {
+      "vid":"0AD0",
+      "vendor":"Intellix Corp."
+    },
+    {
+      "vid":"0AD1",
+      "vendor":"Remotec Technology, Ltd"
+    },
+    {
+      "vid":"0AD2",
+      "vendor":"Service &amp; Quality Technology Co., Ltd"
+    },
+    {
+      "vid":"0ADA",
+      "vendor":"Data Encryption Systems Ltd."
+    },
+    {
+      "vid":"0AE3",
+      "vendor":"Allion Computer, Inc."
+    },
+    {
+      "vid":"0AE4",
+      "vendor":"Taito Corp."
+    },
+    {
+      "vid":"0AE7",
+      "vendor":"Neodym Systems, Inc."
+    },
+    {
+      "vid":"0AE8",
+      "vendor":"System Support Co., Ltd"
+    },
+    {
+      "vid":"0AE9",
+      "vendor":"North Shore Circuit Design L.L.P."
+    },
+    {
+      "vid":"0AEA",
+      "vendor":"SciEssence, LLC"
+    },
+    {
+      "vid":"0AEB",
+      "vendor":"TTP Communications, Ltd"
+    },
+    {
+      "vid":"0AEC",
+      "vendor":"Neodio Technologies Corp."
+    },
+    {
+      "vid":"0AF0",
+      "vendor":"Option"
+    },
+    {
+      "vid":"0AF6",
+      "vendor":"Silver I Co., Ltd"
+    },
+    {
+      "vid":"0AF7",
+      "vendor":"B2C2, Inc."
+    },
+    {
+      "vid":"0AF9",
+      "vendor":"Hama, Inc."
+    },
+    {
+      "vid":"0AFA",
+      "vendor":"DMC Co., Ltd."
+    },
+    {
+      "vid":"0AFC",
+      "vendor":"Zaptronix Ltd"
+    },
+    {
+      "vid":"0AFD",
+      "vendor":"Tateno Dennou, Inc."
+    },
+    {
+      "vid":"0AFE",
+      "vendor":"Cummins Engine Co."
+    },
+    {
+      "vid":"0AFF",
+      "vendor":"Jump Zone Network Products, Inc."
+    },
+    {
+      "vid":"0B00",
+      "vendor":"INGENICO"
+    },
+    {
+      "vid":"0B05",
+      "vendor":"ASUSTek Computer, Inc."
+    },
+    {
+      "vid":"0B0B",
+      "vendor":"Datamax-O'Neil"
+    },
+    {
+      "vid":"0B0C",
+      "vendor":"Todos AB"
+    },
+    {
+      "vid":"0B0D",
+      "vendor":"ProjectLab"
+    },
+    {
+      "vid":"0B0E",
+      "vendor":"GN Netcom"
+    },
+    {
+      "vid":"0B0F",
+      "vendor":"AVID Technology"
+    },
+    {
+      "vid":"0B10",
+      "vendor":"Pcally"
+    },
+    {
+      "vid":"0B11",
+      "vendor":"I Tech Solutions Co., Ltd"
+    },
+    {
+      "vid":"0B1E",
+      "vendor":"Electronic Warfare Assoc., Inc. (EWA)"
+    },
+    {
+      "vid":"0B1F",
+      "vendor":"Insyde Software Corp."
+    },
+    {
+      "vid":"0B20",
+      "vendor":"TransDimension, Inc."
+    },
+    {
+      "vid":"0B21",
+      "vendor":"Yokogawa Electric Corp."
+    },
+    {
+      "vid":"0B22",
+      "vendor":"Japan System Development Co., Ltd"
+    },
+    {
+      "vid":"0B23",
+      "vendor":"Pan-Asia Electronics Co., Ltd"
+    },
+    {
+      "vid":"0B24",
+      "vendor":"Link Evolution Corp."
+    },
+    {
+      "vid":"0B27",
+      "vendor":"Ritek Corp."
+    },
+    {
+      "vid":"0B28",
+      "vendor":"Kenwood Corp."
+    },
+    {
+      "vid":"0B2C",
+      "vendor":"Village Center, Inc."
+    },
+    {
+      "vid":"0B30",
+      "vendor":"PNY Technologies, Inc."
+    },
+    {
+      "vid":"0B33",
+      "vendor":"Contour Design, Inc."
+    },
+    {
+      "vid":"0B37",
+      "vendor":"Hitachi ULSI Systems Co., Ltd"
+    },
+    {
+      "vid":"0B38",
+      "vendor":"Gear Head"
+    },
+    {
+      "vid":"0B39",
+      "vendor":"Omnidirectional Control Technology, Inc."
+    },
+    {
+      "vid":"0B3A",
+      "vendor":"IPaxess"
+    },
+    {
+      "vid":"0B3B",
+      "vendor":"Tekram Technology Co., Ltd"
+    },
+    {
+      "vid":"0B3C",
+      "vendor":"Olivetti Techcenter"
+    },
+    {
+      "vid":"0B3E",
+      "vendor":"Kikusui Electronics Corp."
+    },
+    {
+      "vid":"0B41",
+      "vendor":"Hal Corp."
+    },
+    {
+      "vid":"0B43",
+      "vendor":"Play.com, Inc."
+    },
+    {
+      "vid":"0B47",
+      "vendor":"Sportbug.com, Inc."
+    },
+    {
+      "vid":"0B48",
+      "vendor":"TechnoTrend AG"
+    },
+    {
+      "vid":"0B49",
+      "vendor":"ASCII Corp."
+    },
+    {
+      "vid":"0B4B",
+      "vendor":"Pine Corp. Ltd."
+    },
+    {
+      "vid":"0B4D",
+      "vendor":"Graphtec America, Inc."
+    },
+    {
+      "vid":"0B4E",
+      "vendor":"Musical Electronics, Ltd"
+    },
+    {
+      "vid":"0B50",
+      "vendor":"Dumpries Co., Ltd"
+    },
+    {
+      "vid":"0B51",
+      "vendor":"Comfort Keyboard Co."
+    },
+    {
+      "vid":"0B52",
+      "vendor":"Colorado MicroDisplay, Inc."
+    },
+    {
+      "vid":"0B54",
+      "vendor":"Sinbon Electronics Co., Ltd"
+    },
+    {
+      "vid":"0B56",
+      "vendor":"TYI Systems, Ltd"
+    },
+    {
+      "vid":"0B57",
+      "vendor":"Beijing HanwangTechnology Co., Ltd"
+    },
+    {
+      "vid":"0B59",
+      "vendor":"Lake Communications, Ltd"
+    },
+    {
+      "vid":"0B5A",
+      "vendor":"Corel Corp."
+    },
+    {
+      "vid":"0B5F",
+      "vendor":"Green Electronics Co., Ltd"
+    },
+    {
+      "vid":"0B60",
+      "vendor":"Nsine, Ltd"
+    },
+    {
+      "vid":"0B61",
+      "vendor":"NEC Viewtechnology, Ltd"
+    },
+    {
+      "vid":"0B62",
+      "vendor":"Orange Micro, Inc."
+    },
+    {
+      "vid":"0B63",
+      "vendor":"ADLink Technology, Inc."
+    },
+    {
+      "vid":"0B64",
+      "vendor":"Wonderful Wire Cable Co., Ltd"
+    },
+    {
+      "vid":"0B65",
+      "vendor":"Expert Magnetics Corp."
+    },
+    {
+      "vid":"0B66",
+      "vendor":"Cybiko Inc."
+    },
+    {
+      "vid":"0B67",
+      "vendor":"Fairbanks Scales"
+    },
+    {
+      "vid":"0B69",
+      "vendor":"CacheVision"
+    },
+    {
+      "vid":"0B6A",
+      "vendor":"Maxim Integrated Products"
+    },
+    {
+      "vid":"0B6F",
+      "vendor":"Nagano Japan Radio Co., Ltd"
+    },
+    {
+      "vid":"0B70",
+      "vendor":"PortalPlayer, Inc."
+    },
+    {
+      "vid":"0B71",
+      "vendor":"SHIN-EI Sangyo Co., Ltd"
+    },
+    {
+      "vid":"0B72",
+      "vendor":"Embedded Wireless Technology Co., Ltd"
+    },
+    {
+      "vid":"0B73",
+      "vendor":"Computone Corp."
+    },
+    {
+      "vid":"0B75",
+      "vendor":"Roland DG Corp."
+    },
+    {
+      "vid":"0B79",
+      "vendor":"Sunrise Telecom, Inc."
+    },
+    {
+      "vid":"0B7A",
+      "vendor":"Zeevo, Inc."
+    },
+    {
+      "vid":"0B7B",
+      "vendor":"Taiko Denki Co., Ltd"
+    },
+    {
+      "vid":"0B7C",
+      "vendor":"ITRAN Communications, Ltd"
+    },
+    {
+      "vid":"0B7D",
+      "vendor":"Astrodesign, Inc."
+    },
+    {
+      "vid":"0B81",
+      "vendor":"id3 Technologies"
+    },
+    {
+      "vid":"0B84",
+      "vendor":"Rextron Technology, Inc."
+    },
+    {
+      "vid":"0B85",
+      "vendor":"Elkat Electronics, Sdn., Bhd."
+    },
+    {
+      "vid":"0B86",
+      "vendor":"Exputer Systems, Inc."
+    },
+    {
+      "vid":"0B87",
+      "vendor":"Plus-One I &amp; T, Inc."
+    },
+    {
+      "vid":"0B88",
+      "vendor":"Sigma Koki Co., Ltd, Technology Center"
+    },
+    {
+      "vid":"0B89",
+      "vendor":"Advanced Digital Broadcast, Ltd"
+    },
+    {
+      "vid":"0B8C",
+      "vendor":"SMART Technologies Inc."
+    },
+    {
+      "vid":"0B95",
+      "vendor":"ASIX Electronics Corp."
+    },
+    {
+      "vid":"0B96",
+      "vendor":"Sewon Telecom"
+    },
+    {
+      "vid":"0B97",
+      "vendor":"O2 Micro, Inc."
+    },
+    {
+      "vid":"0B98",
+      "vendor":"Playmates Toys, Inc."
+    },
+    {
+      "vid":"0B99",
+      "vendor":"Audio International, Inc."
+    },
+    {
+      "vid":"0B9B",
+      "vendor":"Dipl.-Ing. Stefan Kunde"
+    },
+    {
+      "vid":"0B9D",
+      "vendor":"Softprotec Co."
+    },
+    {
+      "vid":"0B9F",
+      "vendor":"Chippo Technologies"
+    },
+    {
+      "vid":"0BAF",
+      "vendor":"U.S. Robotics"
+    },
+    {
+      "vid":"0BB0",
+      "vendor":"Concord Camera Corp."
+    },
+    {
+      "vid":"0BB1",
+      "vendor":"Infinilink Corp."
+    },
+    {
+      "vid":"0BB2",
+      "vendor":"Ambit Microsystems Corp."
+    },
+    {
+      "vid":"0BB3",
+      "vendor":"Ofuji Technology"
+    },
+    {
+      "vid":"0BB4",
+      "vendor":"HTC (High Tech Computer Corp.)"
+    },
+    {
+      "vid":"0BB5",
+      "vendor":"Murata Manufacturing Co., Ltd"
+    },
+    {
+      "vid":"0BB6",
+      "vendor":"Network Alchemy"
+    },
+    {
+      "vid":"0BB7",
+      "vendor":"Joytech Computer Co., Ltd"
+    },
+    {
+      "vid":"0BB8",
+      "vendor":"Hitachi Semiconductor and Devices Sales Co., Ltd"
+    },
+    {
+      "vid":"0BB9",
+      "vendor":"Eiger M&amp;C Co., Ltd"
+    },
+    {
+      "vid":"0BBA",
+      "vendor":"ZAccess Systems"
+    },
+    {
+      "vid":"0BBB",
+      "vendor":"General Meters Corp."
+    },
+    {
+      "vid":"0BBC",
+      "vendor":"Assistive Technology, Inc."
+    },
+    {
+      "vid":"0BBD",
+      "vendor":"System Connection, Inc."
+    },
+    {
+      "vid":"0BC0",
+      "vendor":"Knilink Technology, Inc."
+    },
+    {
+      "vid":"0BC1",
+      "vendor":"Fuw Yng Electronics Co., Ltd"
+    }
+  ]
+}
